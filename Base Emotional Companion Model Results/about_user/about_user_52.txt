@@ -1,0 +1,35 @@
+{
+  "certain": {
+    "The user is aware of someone (likely a significant other or close individual) visiting a girl over Easter without their knowledge.": true
+  },
+  "unsure": {
+    "The user feels betrayed or deceived": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user is in a romantic relationship with the person who visited the girl": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user's predominant emotion is disgust, possibly towards the person who visited the girl": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user may also feel anger towards the situation or the person involved": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user is experiencing sadness, possibly due to feeling left out or deceived": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user is not currently experiencing joy, surprise, or fear in a significant amount": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user's emotional state is not neutral, indicating they are significantly affected by the situation": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    }
+  }
+}

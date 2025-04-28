@@ -1,0 +1,26 @@
+{
+  "certain": {
+    "The user is a college freshman at a top-ranking school.": true,
+    "The user has a strong interest in fashion and is known for being fashionable.": true,
+    "The user is currently talking to a girl who prefers a more casual style of dress.": true,
+    "The user is considering changing his style to attract women.": true
+  },
+  "unsure": {
+    "The user is feeling conflicted about his interest in fashion versus his desire to attract women": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may be feeling somewhat frustrated or disappointed with the lack of appreciation for his fashion sense in his current environment": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user may be experiencing a degree of fear or anxiety about the potential implications of changing his style": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user might be questioning his self-identity and the importance of his personal interests versus external validation": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    }
+  }
+}

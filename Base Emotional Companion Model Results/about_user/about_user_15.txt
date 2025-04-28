@@ -1,0 +1,32 @@
+{
+  "certain": {
+    "The user is familiar with Frederick Herzberg's and Deming's theories.": true,
+    "The user believes that money is not a motivator but a hygiene factor.": true,
+    "The user thinks that personal measurements should be replaced with systematic ones in the workplace.": true,
+    "The user believes that managers should take active roles in training their employees.": true,
+    "The user feels that there is a problem with the current system of bonuses and pay.": true,
+    "The user suggests that careful hiring can reduce the variation between different levels of workers.": true
+  },
+  "unsure": {
+    "The user may be a manager or leader in their workplace": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be dissatisfied with their current workplace environment or system": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user could be concerned about job security or the stability of their professional environment": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may feel anger or disgust towards the current system of bonuses and pay": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be interested in or studying organizational behavior or management theories": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    }
+  }
+}

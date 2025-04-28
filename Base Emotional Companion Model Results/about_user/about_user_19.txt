@@ -1,0 +1,27 @@
+{
+  "certain": {
+    "The user has played World of Warcraft (WoW) and The Old Republic (TOR).": true,
+    "The user is disillusioned with the MMO genre, referring to it as a \"rat-race style game.\"": true,
+    "The user believes that the MMO design is weak and unsustainable in its current form.": true,
+    "The user predicts that the upcoming game will be less successful than TOR, become free to play within a year, and have outdated graphics by the time of its release.": true,
+    "The user thinks that the success of MMOs is hindered by oversaturation and the lack of uniqueness in endgame content.": true
+  },
+  "unsure": {
+    "The user might have had a negative experience with TOR and WoW, leading to their current disillusionment with the MMO genre": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may feel frustrated and tired with the cycle of MMO games, as indicated by their use of strong language and the detected emotion of anger": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user could be a fan of The Elder Scrolls (TES), given their knowledge of TES locations and expansions, but this is not explicitly stated": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    },
+    "The user may have a negative view of the gaming industry, seeing it as profit-driven and unoriginal, based on their comments about game development and design": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

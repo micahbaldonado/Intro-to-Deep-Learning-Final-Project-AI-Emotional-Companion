@@ -1,0 +1,35 @@
+{
+  "certain": {
+    "The user is facing a problem that they find significant.": true
+  },
+  "unsure": {
+    "The user is feeling angry about the problem": {
+      "short_term": 0.35,
+      "long_term": 0.35
+    },
+    "The user is feeling neutral about the problem": {
+      "short_term": 0.35,
+      "long_term": 0.35
+    },
+    "The user is feeling disgust towards the problem": {
+      "short_term": 0.2,
+      "long_term": 0.2
+    },
+    "The user is feeling sad about the problem": {
+      "short_term": 0.07,
+      "long_term": 0.07
+    },
+    "The user is feeling fear about the problem": {
+      "short_term": 0.02,
+      "long_term": 0.02
+    },
+    "The user is feeling surprised about the problem": {
+      "short_term": 0.02,
+      "long_term": 0.02
+    },
+    "The user is feeling joy about the problem": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    }
+  }
+}

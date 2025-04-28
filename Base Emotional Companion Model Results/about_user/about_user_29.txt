@@ -1,0 +1,16 @@
+{
+  "certain": {
+    "The user is expressing negative feelings about \"Yeva's Forcemage\"": true,
+    "The user is feeling predominantly disgust and anger": true
+  },
+  "unsure": {
+    "The user might be frustrated or disappointed with the performance or utility of \"Yeva's Forcemage\"": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may be involved in a game or activity involving \"Yeva's Forcemage\", possibly a card game like Magic: The Gathering": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}

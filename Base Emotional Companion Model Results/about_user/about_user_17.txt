@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is expressing a negative view towards Richmond Hill.": true,
+    "The user is suggesting an extreme solution to generate revenue.": true,
+    "The user is displaying a high level of disgust and some anger.": true
+  },
+  "unsure": {
+    "The user may have environmental concerns": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may be unhappy with the current economic situation": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may have a negative view towards Americans": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may be sarcastic or cynical": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    }
+  }
+}

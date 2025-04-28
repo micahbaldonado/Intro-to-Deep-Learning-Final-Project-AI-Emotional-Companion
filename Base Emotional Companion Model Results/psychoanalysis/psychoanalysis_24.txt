@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to be using strategic thinking, which is generally a good thinking pattern (short=0.1, long=0.05)
+
+[[Cognitive Distortions]]
+- Description: No clear cognitive distortions can be identified from the input (short=0.1, long=0.05)
+
+[[Defense Mechanisms]]
+- Description: No clear defense mechanisms can be identified from the input (short=0.1, long=0.05)
+
+[[Maladaptive Patterns]]
+- Description: No clear maladaptive patterns can be identified from the input (short=0.1, long=0.05)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user may have a belief in the value of strategic thinking and planning, inferred from their analysis of the game (short=0.1, long=0.05)
+
+[[Emotional Regulation Patterns]]
+- Description: No clear emotional regulation patterns can be identified from the input (short=0.1, long=0.05)
+
+[[Axioms / Core Beliefs]]
+- Description: The user may hold a core belief in the importance of strategic thinking and planning, as evidenced by their analysis of the game (short=0.1, long=0.05)
+

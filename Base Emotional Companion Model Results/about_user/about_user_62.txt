@@ -1,0 +1,36 @@
+{
+  "certain": {
+    "The user plays online games, specifically CS:GO.": true,
+    "The user received a gift in the form of a knife in the game.": true,
+    "The user has been accused of scamming another player.": true,
+    "The user receives a high volume of invites daily.": true,
+    "The user was up late at night, around 6:30 am their time.": true,
+    "The user has a contact named Junglist who handles reports for them.": true
+  },
+  "unsure": {
+    "The user may feel wrongfully accused": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be a popular or well-known figure in the gaming community due to the high volume of invites": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be experiencing stress or anxiety due to the accusation": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user possibly has irregular sleep patterns due to late-night gaming": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might feel a sense of surprise or shock about the accusation based on the emotional analysis": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may feel some anger about the situation based on the emotional analysis": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    }
+  }
+}

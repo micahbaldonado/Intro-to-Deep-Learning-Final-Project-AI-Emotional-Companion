@@ -1,0 +1,43 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to be demonstrating a good thinking pattern by considering multiple outcomes and potential futures, indicating a capacity for flexible thinking (short=0.7, long=0.5)
+- Another possible insight: The user is also able to assess the present situation and make a prediction for the future, showing analytical thinking (short=0.6, long=0.4)
+
+[[Cognitive Distortions]]
+- Description: There is no clear evidence of cognitive distortions in the provided input (short=0.1, long=0.05)
+
+[[Defense Mechanisms]]
+- Description: There is no clear evidence of defense mechanisms in the provided input (short=0.1, long=0.05)
+
+[[Maladaptive Patterns]]
+- Description: There are no apparent maladaptive patterns in the user's input (short=0.1, long=0.05)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to believe in the potential growth and development of individuals over time, as shown in their prediction for Courtois (short=0.4, long=0.2)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to be maintaining a neutral emotional state while discussing the topic, indicating good emotional regulation (short=0.8, long=0.6)
+
+[[Axioms / Core Beliefs]]
+- Description: The user seems to believe that lack of activity or use (benching in this context) can lead to a decrease in value or potential, as indicated in their concern for Courtois if benched (short=0.4, long=0.2)
+

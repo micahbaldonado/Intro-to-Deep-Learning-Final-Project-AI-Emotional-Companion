@@ -1,0 +1,26 @@
+{
+  "certain": {
+    "The user has knowledge about cryptocurrencies, specifically bitcoins.": true,
+    "The user is aware of the anonymity provided by cryptocurrencies.": true,
+    "The user has concerns about the security and traceability of their money, particularly by institutions like the IRS or NSA.": true,
+    "The user acknowledges the existence of a community that works to prevent attacks on cryptocurrencies.": true
+  },
+  "unsure": {
+    "The user might have experienced loss of bitcoins or fears such loss": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be involved in activities they wish to keep private from authorities": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be angry or disgusted with traditional banking systems": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    },
+    "The user might be skeptical or surprised about the effectiveness of the cryptocurrency community in preventing attacks": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

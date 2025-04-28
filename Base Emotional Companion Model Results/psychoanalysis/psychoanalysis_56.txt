@@ -1,0 +1,43 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to be questioning the sincerity of the other person's claims, indicating a healthy skepticism, which can be a good thinking pattern. However, it may also suggest a tendency to distrust or doubt others' intentions, which can be unhelpful in relationships (short=0.4, long=0.2)
+
+[[Cognitive Distortions]]
+- Description: The user may be experiencing 'mind reading', a cognitive distortion where they are assuming to know the thoughts and intentions of the other person without concrete evidence (short=0.2, long=0.1)
+
+[[Defense Mechanisms]]
+- Description: The user might be using 'projection', attributing their own feelings of anger and disgust onto the other person's actions (short=0.4, long=0.2)
+- Another possible insight: The user's sarcastic comment "(you don't say!)" might be a form of 'intellectualization', where they are distancing themselves from the emotional impact of the situation by using humor (short=0.3, long=0.15)
+
+[[Maladaptive Patterns]]
+- Description: The user seems to be stuck in a pattern of accepting explanations that they find unsatisfactory, which may be a maladaptive pattern of conflict avoidance (short=0.4, long=0.2)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user may believe that they are not being treated with respect or honesty in their relationship, affecting their self-schema (short=0.4, long=0.2)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to be expressing their emotions openly, which is a healthy emotional regulation pattern. However, the high levels of anger and disgust could suggest difficulty in managing intense negative emotions (short=0.3, long=0.15)
+
+[[Axioms / Core Beliefs]]
+- Description: The user may hold a core belief that people should be honest and transparent in relationships, and when this belief is violated, it triggers strong negative emotions (short=0.4, long=0.2)
+

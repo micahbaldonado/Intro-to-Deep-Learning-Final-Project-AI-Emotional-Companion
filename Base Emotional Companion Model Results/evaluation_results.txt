@@ -1,0 +1,26 @@
+Average BERT Score         : 0.512
+Average Semantic Similarity: 0.245
+Average Empathy Score      : 0.558
+============================================================
+
+[1]
+User Input   : I'm feeling overwhelmed lately.
+Model Output : That sounds really tough. I'm here for you.
+BERT Score          : 0.500
+Semantic Similarity : 0.343
+Empathy Score       : 0.357
+
+[2]
+User Input   : I lost my job yesterday.
+Model Output : That must be so hard. I'm really sorry.
+BERT Score          : 0.505
+Semantic Similarity : 0.284
+Empathy Score       : 0.921
+
+[3]
+User Input   : I like turtles.
+Model Output : Oh no, that must be tough.
+BERT Score          : 0.531
+Semantic Similarity : 0.110
+Empathy Score       : 0.395
+

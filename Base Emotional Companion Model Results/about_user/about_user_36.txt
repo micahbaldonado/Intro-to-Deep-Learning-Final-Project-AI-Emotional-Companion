@@ -1,0 +1,26 @@
+{
+  "certain": {
+    "The user is 36 years old.": true,
+    "The user has watched the \"placebo effect\" episode of Archer.": true,
+    "The user has used recreational drugs, specifically in the context of watching television.": true,
+    "The user has a sense of humor, as indicated by their interaction with the laptop.": true
+  },
+  "unsure": {
+    "The user might have been alone during this experience": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be a regular consumer of recreational drugs": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be a fan of animated comedy shows": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be expressing a sense of surprise or confusion about the situation they described, given the high surprise emotion score": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    }
+  }
+}

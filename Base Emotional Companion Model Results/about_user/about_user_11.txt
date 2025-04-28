@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is interested in fitness, specifically chest workouts.": true,
+    "The user is considering changing their workout routine, possibly from Planche to Lever pushups.": true,
+    "The user is open to advice and values the experience of others.": true
+  },
+  "unsure": {
+    "The user may have some prior experience or knowledge in fitness training": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be feeling uncertain or confused about their workout choices": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user could be seeking validation for their workout choices": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

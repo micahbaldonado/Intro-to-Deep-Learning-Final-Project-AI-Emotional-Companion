@@ -1,0 +1,40 @@
+{
+  "certain": {
+    "The user is actively engaged in a fitness routine based on a chart from /r/bodyweightfitness.": true,
+    "The user has made significant progress in their fitness routine.": true,
+    "The user has been doing Ring pushups and is looking to transition to another chest workout.": true,
+    "The user will not have access to rings for a few months.": true,
+    "The user is considering Lever pushups as an alternative to Planche for their chest workout.": true,
+    "The user is seeking advice from experienced individuals.": true
+  },
+  "unsure": {
+    "The user may be experiencing some level of anxiety or fear about changing their workout routine": {
+      "short_term": 0.4,
+      "long_term": 0.6
+    },
+    "The user might be feeling neutral or indifferent about their current situation": {
+      "short_term": 0.5,
+      "long_term": 0.5
+    },
+    "The user may be experiencing a minor level of joy from their progress in their fitness routine": {
+      "short_term": 0.3,
+      "long_term": 0.1
+    },
+    "The user might be feeling a minor level of sadness, possibly due to not having access to rings for their workout": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    },
+    "The user may be feeling a minor level of anger, possibly due to their current workout dilemma": {
+      "short_term": 0.1,
+      "long_term": 0.05
+    },
+    "The user might be feeling a minor level of surprise, possibly due to their progress or the need to change their workout routine": {
+      "short_term": 0.1,
+      "long_term": 0.05
+    },
+    "The user may be feeling a very minor level of disgust, possibly due to their current workout dilemma": {
+      "short_term": 0.05,
+      "long_term": 0.02
+    }
+  }
+}

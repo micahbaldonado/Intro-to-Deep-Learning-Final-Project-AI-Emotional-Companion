@@ -1,0 +1,27 @@
+{
+  "certain": {
+    "The user owned a PS3 and Xbox 360 in the past, with a preference for the Xbox 360.": true,
+    "The user currently owns an Xbox One, which was purchased on release day.": true,
+    "The user's current game library for the Xbox One includes Call of Duty: Ghosts, Dead Rising 3, and Peggle 2.": true,
+    "The user has a goal to save up for a PS4.": true,
+    "The user values experiencing both gaming systems in the current generation, and does not want to judge the PS4 without having spent a significant amount of time with it.": true
+  },
+  "unsure": {
+    "The user may feel isolated or lonely due to lack of companionship in gaming": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be experiencing financial constraints which is why they're saving up for a PS4": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user's high fear emotion could be related to the financial stress of affording a new gaming system or the fear of making a wrong choice between PS4 and Xbox One": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may have some dissatisfaction with their current game library, as they described Call of Duty: Ghosts as an \"awful game\" and Dead Rising 3 as only lasting a week for them": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    }
+  }
+}

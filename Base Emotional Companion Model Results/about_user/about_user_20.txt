@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is discussing the complexities of literary criticism and its importance in understanding a text beyond the author's original intentions.": true,
+    "The user is knowledgeable about the subject matter and is making a comparison between physical and cultural objects to illustrate their point.": true,
+    "The user has neutral emotions towards the topic they are discussing.": true
+  },
+  "unsure": {
+    "The user may have a background in literature or a related field": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be trying to explain or defend the importance of literary criticism to an audience that undervalues it": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may have a specific interest in Tolkien's work, given its mention": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The slight presence of disgust emotion may suggest a frustration or dissatisfaction with people who oversimplify literary criticism or don't value it": {
+      "short_term": 0.6,
+      "long_term": 0.3
+    }
+  }
+}

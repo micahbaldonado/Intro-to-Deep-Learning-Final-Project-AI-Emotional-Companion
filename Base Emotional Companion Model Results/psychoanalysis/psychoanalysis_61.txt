@@ -1,0 +1,21 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+

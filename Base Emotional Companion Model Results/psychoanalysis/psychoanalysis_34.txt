@@ -1,0 +1,45 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user exhibits critical thinking and analysis of a political situation, suggesting a capacity for complex thought and evaluation (short=0.7, long=0.5)
+- Another possible insight: The user also shows a willingness to reassess their decisions and beliefs, indicating a healthy degree of cognitive flexibility (short=0.6, long=0.4)
+
+[[Cognitive Distortions]]
+- Description: There is some evidence of overgeneralization, as the user attributes the politician's actions as being solely anti-Bloomberg rather than considering other potential motivations or factors (short=0.4, long=0.2)
+
+[[Defense Mechanisms]]
+- Description: The user does not exhibit clear use of defense mechanisms in this input (short=0.05, long=0.02)
+
+[[Maladaptive Patterns]]
+- Description: The user's tendency to vote for the same person despite dissatisfaction could be seen as a maladaptive pattern if it leads to continued frustration or disappointment (short=0.3, long=0.15)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user appears to believe in the importance of change and progress, as evidenced by their voting choices and criticisms (short=0.5, long=0.3)
+- Another possible insight: The user seems to value honesty and consistency in politicians, as suggested by their disappointment with the politician's unfulfilled promises (short=0.4, long=0.2)
+
+[[Emotional Regulation Patterns]]
+- Description: The user manages their strong emotions of disgust and anger by analyzing the situation and expressing their thoughts and feelings in a coherent manner (short=0.6, long=0.4)
+
+[[Axioms / Core Beliefs]]
+- Description: The user seems to hold a belief that politicians should be consistent and honest, and should prioritize the needs and interests of the community (short=0.7, long=0.5)
+- Another possible insight: The user may also believe in the importance of being critical and questioning authority, as shown by their analysis and critique of the politician's actions (short=0.6, long=0.4)
+

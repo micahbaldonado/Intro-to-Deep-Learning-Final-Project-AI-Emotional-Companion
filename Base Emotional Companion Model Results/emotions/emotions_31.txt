@@ -1,0 +1,9 @@
+{
+  "fear": 0.4075,
+  "neutral": 0.2405,
+  "disgust": 0.223,
+  "sadness": 0.056,
+  "anger": 0.0507,
+  "surprise": 0.017,
+  "joy": 0.0053
+}

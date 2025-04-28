@@ -1,0 +1,31 @@
+{
+  "certain": {
+    "The user is expressing strong feelings of disgust and anger.": true
+  },
+  "unsure": {
+    "The user might be reciting lyrics from a song or a poem": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user might be expressing feelings of intimidation or threat, possibly from an external source": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be involved in a competitive or challenging situation, as suggested by phrases like \"let the games begin\" and \"the grade you receive will be the last we swear\"": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user could be feeling trapped or without options, as indicated by the phrase \"there's no recourse\"": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might be experiencing a low level of sadness, fear, and surprise": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user might be feeling a very low level of joy and neutrality": {
+      "short_term": 0.1,
+      "long_term": 0.05
+    }
+  }
+}

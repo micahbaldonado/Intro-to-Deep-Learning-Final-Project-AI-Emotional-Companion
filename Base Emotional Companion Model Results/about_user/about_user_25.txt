@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user is discussing football, specifically comparing the skills of players Cech and Courtois.": true,
+    "The user believes that currently, Cech is more reliable and slightly better.": true,
+    "The user predicts that Courtois will surpass Cech in skill in the future, possibly becoming the best in the world.": true,
+    "The user is concerned that if Courtois is benched for long periods, he might leave.": true,
+    "The user's dominant emotion is neutral, with minor elements of disgust, surprise, sadness, fear, anger, and a very small amount of joy.": true
+  },
+  "unsure": {
+    "The user's interest in football": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user's concern about team management decisions affecting player retention": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user's personal attachment or preference for either Cech or Courtois": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    }
+  }
+}

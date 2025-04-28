@@ -1,0 +1,39 @@
+{
+  "certain": {
+    "The user has military experience.": true,
+    "The user has experience with the G.I. bill.": true,
+    "The user has a college degree.": true,
+    "The user has experienced difficulties in job searching without a degree.": true,
+    "The user has had a positive experience with employment after obtaining a degree.": true,
+    "The user has experience with college applications and job applications.": true,
+    "The user has knowledge about the time it takes for the G.I. bill to arrive.": true,
+    "The user has experienced financial difficulties related to the delay in the arrival of the G.I. bill.": true,
+    "The user has knowledge about the process of getting hired or accepted into a college/training program.": true
+  },
+  "unsure": {
+    "The user may have had a negative experience with employers valuing military experience": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be advising someone else based on their own experiences": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may have had to learn some financial and application processes the hard way": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may have experienced fear or anxiety in the past related to job searching or financial stability": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    },
+    "The user may feel neutral or indifferent about their past experiences now": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user may have a desire to help others avoid the difficulties they experienced": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

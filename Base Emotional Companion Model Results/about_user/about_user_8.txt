@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is discussing a strategy for a game involving elf characters.": true,
+    "The user is evaluating the usefulness of various elf characters in a deck.": true,
+    "The user believes that the current selection of elves does not provide a strong enough strategy for the game.": true
+  },
+  "unsure": {
+    "The user is frustrated with the game's current elf options": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is knowledgeable and experienced in the game they are discussing": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user is looking for advice or suggestions to improve their game strategy": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    }
+  }
+}

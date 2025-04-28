@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user is recalling an event involving their cousin that happened last year.": true,
+    "The user's cousin received an iPhone 3GS as a gift and didn't have to pay for the contract.": true,
+    "The cousin got a girlfriend and was very excited about it. He would often ask his mother to drive them around.": true,
+    "The cousin's parents received a very high phone bill one month after he started dating his girlfriend.": true,
+    "The user was present at their cousin's house when a conflict about the phone bill and driving occurred.": true,
+    "The user felt a strong desire to confront their cousin during this conflict.": true
+  },
+  "unsure": {
+    "The user's relationship with their cousin is strained": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may feel resentment towards their cousin's entitled behavior": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user might be worried about the financial strain on their cousin's family": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user may feel a sense of injustice about the situation": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    }
+  }
+}

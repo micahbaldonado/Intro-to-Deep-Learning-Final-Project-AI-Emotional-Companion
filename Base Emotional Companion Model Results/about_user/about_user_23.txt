@@ -1,0 +1,29 @@
+{
+  "certain": {
+    "The user has two dogs, one is seven years old and the other is one year old.": true,
+    "The older dog has been marking his territory by peeing on furniture since the arrival of the younger dog.": true,
+    "The older dog was easily trained as a puppy and this behavior is new.": true,
+    "The user has tried various methods to stop this behavior but none have been effective.": true,
+    "The older dog is not neutered.": true,
+    "The vet has suggested neutering as a possible solution, but the user is hesitant due to the dog's age.": true,
+    "The user is seeking advice and suggestions to deal with this problem.": true
+  },
+  "unsure": {
+    "The user might be feeling frustrated with the situation": {
+      "short_term": 0.6,
+      "long_term": 0.8
+    },
+    "The user might be worried about the older dog's well-being if they decide to neuter him": {
+      "short_term": 0.4,
+      "long_term": 0.6
+    },
+    "The user might be feeling overwhelmed by the situation": {
+      "short_term": 0.5,
+      "long_term": 0.7
+    },
+    "The user might be feeling desperate for a solution": {
+      "short_term": 0.5,
+      "long_term": 0.7
+    }
+  }
+}

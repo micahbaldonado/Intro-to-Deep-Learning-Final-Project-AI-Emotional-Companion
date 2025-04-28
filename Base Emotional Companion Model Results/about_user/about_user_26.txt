@@ -1,0 +1,37 @@
+{
+  "certain": {
+    "The user is 26 years old.": true,
+    "The user dislikes the invincibility mechanic in video games, particularly in multiplayer games.": true,
+    "The user believes that invincibility mechanics remove meaningful decision-making in gameplay.": true,
+    "The user prefers mechanics that allow for counterplay or decision-making.": true,
+    "The user has played Heroes of the Storm, League of Legends, and World of Warcraft.": true,
+    "The user stopped playing World of Warcraft around 2007 or 2008, before the Burning Crusade expansion.": true,
+    "The user is frustrated with games that limit player options and decisions.": true
+  },
+  "unsure": {
+    "The user might be an avid gamer": {
+      "short_term": 0.9,
+      "long_term": 0.8
+    },
+    "The user could be interested in game design or theory, given their detailed analysis of game mechanics": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may be open to discussing and debating game mechanics with others, as they express a desire to start a discussion": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user might have a competitive nature, given their focus on outplaying opponents and frustration with mechanics that negate skill": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be experiencing anger or frustration, given the high score for anger in their emotional analysis": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user might feel a sense of nostalgia or disappointment about changes in games they used to enjoy, given the presence of sadness in their emotional analysis": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}

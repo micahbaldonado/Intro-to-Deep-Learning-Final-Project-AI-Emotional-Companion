@@ -1,0 +1,30 @@
+{
+  "certain": {
+    "The user is a 49-year-old male.": true,
+    "The user has a variety of interests including intelligent conversation, art, photography, video games, movies, road trips, astronomy, camping, hiking, building things, adventures, the Simpsons, Futurama, Game of Thrones, Star Wars, Indiana Jones, and Disneyland.": true,
+    "The user is not sure what type of relationship he is seeking.": true,
+    "The user is open to different types of relationships including friendship, romantic, friends with benefits, online friendship, gaming buddies, or teammates.": true,
+    "The user is honest, sincere, and wears his heart on his sleeve.": true,
+    "The user does not smoke.": true,
+    "The user is trying to read more.": true,
+    "The user is open to exchanging pictures.": true
+  },
+  "unsure": {
+    "The user might be feeling a mix of joy and neutrality with a hint of sadness": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be looking for a surprise or something unexpected in his search for a relationship": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be feeling a bit lost or confused about what he wants": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    },
+    "The user might be feeling adventurous and open to new experiences": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    }
+  }
+}

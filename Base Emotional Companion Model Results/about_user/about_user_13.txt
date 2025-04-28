@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user has broken a mercury thermometer and put it back in their mouth.": true
+  },
+  "unsure": {
+    "The user may have a tendency towards risky behavior": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be lacking knowledge about the dangers of mercury": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user might be feeling regret or disgust about their actions, given the high disgust emotion score": {
+      "short_term": 0.9,
+      "long_term": 0.7
+    },
+    "The user might be alone or unsupervised during the incident, as there's no mention of others": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

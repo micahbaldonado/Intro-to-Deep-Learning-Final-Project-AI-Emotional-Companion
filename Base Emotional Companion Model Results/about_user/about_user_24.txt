@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user is discussing a strategy or tactic related to a game, likely a card game that involves elves.": true
+  },
+  "unsure": {
+    "The user enjoys strategizing or analyzing game tactics": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user is feeling satisfied with the strategy they are discussing, given the presence of joy": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user may be surprised by the effectiveness of the strategy, given the presence of surprise": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    },
+    "The user may have a preference for elves or fantasy themes, given the specific mention of elves": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

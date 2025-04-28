@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is knowledgeable about the state government's role in education funding.": true,
+    "The user is aware of the Pell grants from the federal government.": true,
+    "The user understands the role of the board of regents in controlling educational costs.": true
+  },
+  "unsure": {
+    "The user might have personal experience with educational funding": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may be involved in educational policy or advocacy": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user's emotional state is predominantly neutral with very minor traces of negative emotions": {
+      "short_term": 0.95,
+      "long_term": 0.05
+    }
+  }
+}

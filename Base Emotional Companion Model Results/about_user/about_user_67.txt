@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user has a strong interest in fashion.": true,
+    "The user's fashion interest began due to influence from his sisters and compliments from girls in high school.": true,
+    "The user's style has evolved over time.": true,
+    "The user is considered fashionable by his peers.": true,
+    "The user gives fashion tips and advice to others, including girls.": true
+  },
+  "unsure": {
+    "The user might have a high level of self-confidence": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may have a significant influence within his social circle": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might be seeking validation or approval from others through his fashion sense": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}

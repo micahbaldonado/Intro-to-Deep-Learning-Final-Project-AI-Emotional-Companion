@@ -1,0 +1,31 @@
+{
+  "certain": {
+    "The user has been accused of scamming in a trade involving virtual knives.": true,
+    "The user uses \"Trade Offer\" links provided by Steam for trading.": true,
+    "The user was added by another person who was subsequently ignored.": true,
+    "The user did not respond to the other person on Reddit.": true,
+    "The other person created threads accusing the user of scamming on various platforms, including HLTV and Reddit.": true
+  },
+  "unsure": {
+    "The user feels misunderstood or falsely accused": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be feeling frustrated or angry due to the accusations": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be feeling surprised by the other person's actions": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    },
+    "The user may be experiencing fear due to the potential consequences of the accusations": {
+      "short_term": 0.02,
+      "long_term": 0.01
+    },
+    "The user might be feeling a small amount of sadness due to the situation": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    }
+  }
+}

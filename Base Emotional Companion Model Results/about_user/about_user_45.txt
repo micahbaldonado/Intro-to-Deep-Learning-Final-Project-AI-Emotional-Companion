@@ -1,0 +1,20 @@
+{
+  "certain": {
+    "The user is providing advice on how to approach a writing task, particularly when dealing with slower parts of the story.": true,
+    "The user's emotional state is predominantly neutral.": true
+  },
+  "unsure": {
+    "The user might be a writer or someone who is experienced in writing tasks": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be facing some difficulties in writing, which is why they are discussing strategies to overcome such issues": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user might be feeling a bit of disgust, anger, and fear, possibly related to the writing process or a separate issue": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    }
+  }
+}

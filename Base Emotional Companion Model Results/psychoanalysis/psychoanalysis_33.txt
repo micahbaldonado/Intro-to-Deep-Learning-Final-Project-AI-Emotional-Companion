@@ -1,0 +1,44 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user acknowledges their tendency to ramble, which suggests some level of self-awareness. This can be seen as a good thinking pattern as it shows the user's ability to recognize their own behavior patterns (short=0.6, long=0.4)
+- Another possible insight: However, the user's acceptance of their ADHD as a reason for their rambling could also be seen as a bad thinking pattern, as they may be using it as an excuse rather than trying to manage it (short=0.5, long=0.2)
+
+[[Cognitive Distortions]]
+- Description: The user seems to be generalizing their behavior ("we all try", "we want to make sure the whole story is posted") which is a cognitive distortion known as overgeneralization (short=0.6, long=0.4)
+
+[[Defense Mechanisms]]
+- Description: The user is using humor and self-deprecation as a defense mechanism to cope with their ADHD and tendency to ramble (short=0.7, long=0.5)
+
+[[Maladaptive Patterns]]
+- Description: The user's tendency to ramble and lose track of what they covered, possibly due to their ADHD, is a maladaptive pattern that could hinder effective communication (short=0.7, long=0.5)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to view themselves as someone who is prone to rambling and losing track of their thoughts, which could be part of their self-schema (short=0.6, long=0.4)
+
+[[Emotional Regulation Patterns]]
+- Description: The user's use of humor and self-deprecation could be a way for them to regulate their emotions and cope with any frustration or embarrassment they may feel due to their ADHD and rambling (short=0.6, long=0.4)
+
+[[Axioms / Core Beliefs]]
+- Description: The user's statement "We all try!" suggests a core belief that everyone is doing their best, despite any challenges or shortcomings they may have (short=0.6, long=0.4)
+- Another possible insight: The user's acceptance of their ADHD and rambling as part of who they are could suggest a core belief that it's okay to have flaws and make mistakes (short=0.5, long=0.3)
+

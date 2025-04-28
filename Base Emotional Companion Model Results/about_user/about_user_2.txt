@@ -1,0 +1,22 @@
+{
+  "certain": {
+    "The user is discussing the mechanics of a video game character, specifically Kassadin.": true,
+    "The user is knowledgeable about the game and its mechanics.": true,
+    "The user is explaining these mechanics to another person, possibly someone less experienced or less knowledgeable.": true,
+    "The user is largely neutral in their emotional state while explaining this.": true
+  },
+  "unsure": {
+    "The user may be a seasoned player of the game": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be a bit frustrated or impatient with the person they're explaining to, given the slight presence of anger and disgust": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user might find joy in the game or the act of explaining game mechanics, given the slight presence of joy": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    }
+  }
+}

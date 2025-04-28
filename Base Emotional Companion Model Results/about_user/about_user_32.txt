@@ -1,0 +1,34 @@
+{
+  "certain": {
+    "The user is a 32-year-old female who is 5'9 and weighs 135 lbs.": true,
+    "The user does not drive and often relies on friends for transportation.": true,
+    "The user once carried a 7'5 foot Christmas tree home from a local grocery store.": true,
+    "The user lives in an apartment and uses public transportation (subway and bus) for commuting.": true
+  },
+  "unsure": {
+    "The user might have a strong independent streak": {
+      "short_term": 0.7,
+      "long_term": 0.8
+    },
+    "The user might enjoy challenges and is not afraid of physical exertion": {
+      "short_term": 0.6,
+      "long_term": 0.7
+    },
+    "The user might have a good sense of humor and doesn't mind sharing amusing personal anecdotes": {
+      "short_term": 0.6,
+      "long_term": 0.7
+    },
+    "The user may live in a city, given the use of public transportation and apartment living": {
+      "short_term": 0.5,
+      "long_term": 0.6
+    },
+    "The user might enjoy celebrating Christmas and follows traditions like having a Christmas tree": {
+      "short_term": 0.6,
+      "long_term": 0.7
+    },
+    "The user might be resilient and determined, as indicated by her insistence on carrying the tree herself despite offers of help": {
+      "short_term": 0.7,
+      "long_term": 0.8
+    }
+  }
+}

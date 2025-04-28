@@ -1,0 +1,31 @@
+{
+  "certain": {
+    "The user is 35 years old.": true,
+    "The user was supposed to be picked up by a friend of a friend for a birthday celebration.": true,
+    "The person who was supposed to pick the user up did not show up and did not call to inform them.": true,
+    "The user's friend, whose birthday it was, also did not call to inform the user about the situation.": true,
+    "The user has given up on waiting.": true
+  },
+  "unsure": {
+    "The user feels neglected by their friend": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may have issues with trust or reliability due to this incident": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may feel frustration and disappointment towards their friend": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user may be less likely to rely on this friend in the future": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may feel a lack of respect from their friend": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

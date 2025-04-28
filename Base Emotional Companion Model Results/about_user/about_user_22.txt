@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user is providing critical feedback on a game.": true,
+    "The user is knowledgeable about the game, possibly an experienced player.": true,
+    "The user is not pleased with the gaming strategies of the person they are addressing.": true,
+    "The user believes that the person they are addressing shouldn't be partied with a higher-level player.": true,
+    "The user is suggesting alternative strategies for playing the game.": true,
+    "The user is discussing a recent close game that ended in a loss.": true
+  },
+  "unsure": {
+    "The user may be frustrated or annoyed with the person they are addressing": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user might be a friend or acquaintance of the person they are addressing, given their knowledge of the person's gaming habits and strategies": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user may be trying to mentor or guide the person they are addressing to improve their gaming skills": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user could be part of a gaming community or forum where such discussions and feedback are common": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}

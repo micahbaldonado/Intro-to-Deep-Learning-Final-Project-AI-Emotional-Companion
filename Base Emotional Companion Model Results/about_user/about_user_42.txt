@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user was with friends at a cottage in the woods.": true,
+    "The user and friends were trying to shoot a bird with a pellet gun.": true,
+    "They succeeded in shooting a bird and then threw it into a fire while it was still alive.": true,
+    "They discovered a nest with a baby bird and an egg, which they played with before it got away.": true,
+    "The user felt bad about the incident.": true,
+    "The user and friends were drunk at the time.": true
+  },
+  "unsure": {
+    "The user might feel guilty about the incident": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user might have a tendency towards reckless behavior when under the influence of alcohol": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might have a lack of empathy towards animals": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user might be seeking validation or understanding for their actions": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

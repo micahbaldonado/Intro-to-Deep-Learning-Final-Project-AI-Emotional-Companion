@@ -1,0 +1,26 @@
+{
+  "certain": {
+    "The user has had an experience of seeing someone who looked exactly like them.": true,
+    "The user felt surprised and somewhat afraid during and after this experience.": true,
+    "The user was unable to think clearly for about an hour after the incident.": true,
+    "The user shared this experience on /r/askreddit and then again under their main account, not their throwaway.": true
+  },
+  "unsure": {
+    "The user questions their sanity when recalling this event": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may have a tendency to repress or avoid confronting unusual or unsettling experiences, as suggested by their use of a throwaway account and their decision not to turn around for a second look": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user may experience episodes of derealization or depersonalization, as suggested by their description of the event and their reaction to it": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be struggling with fear and anxiety, as indicated by the high levels of surprise and fear in their emotional profile": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    }
+  }
+}

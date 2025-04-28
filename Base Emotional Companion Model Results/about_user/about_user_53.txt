@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is aware of a situation where someone they know visited another person before meeting family.": true,
+    "The user has read some text messages between the person they know and the other person.": true,
+    "The user has confirmed with the family that the person did visit them.": true
+  },
+  "unsure": {
+    "The user suspects infidelity but is not certain": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is feeling betrayed or deceived": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user is trying to rationalize the situation": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user is experiencing trust issues": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

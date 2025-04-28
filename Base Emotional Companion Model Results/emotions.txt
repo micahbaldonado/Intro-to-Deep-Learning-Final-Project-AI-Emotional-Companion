@@ -1,0 +1,12 @@
+=== Emotions Log ===
+
+{
+  "anger": 0.7918,
+  "sadness": 0.1073,
+  "disgust": 0.0619,
+  "fear": 0.0113,
+  "neutral": 0.0111,
+  "joy": 0.0105,
+  "surprise": 0.0062
+}
+

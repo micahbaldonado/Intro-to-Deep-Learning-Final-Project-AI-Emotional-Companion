@@ -1,0 +1,43 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to be demonstrating a pattern of rational thinking by not jumping to conclusions about the situation and seeking verification from the family (short=0.4, long=0.2)
+
+[[Cognitive Distortions]]
+- Description: There might be some evidence of 'mind reading' here, where the user is assuming the intentions and thoughts of the other person involved without direct evidence (short=0.2, long=0.1)
+
+[[Defense Mechanisms]]
+- Description: The user might be using intellectualization as a defense mechanism, focusing on the details and facts of the situation rather than the emotional impact (short=0.3, long=0.15)
+
+[[Maladaptive Patterns]]
+- Description: The user may be engaging in a maladaptive pattern of overly monitoring and checking the behavior of others, which could lead to feelings of anxiety and mistrust (short=0.2, long=0.1)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to value honesty and trust in relationships, and may feel betrayed or deceived in this situation (short=0.3, long=0.15)
+
+[[Emotional Regulation Patterns]]
+- Description: The user appears to be managing their emotions well in this situation, focusing on the facts and not allowing their emotions to take over (short=0.4, long=0.2)
+
+[[Axioms / Core Beliefs]]
+- Description: The user likely holds the belief that honesty and transparency are important in relationships, and this situation is challenging those beliefs (short=0.3, long=0.15)
+- Another possible insight: The user may also believe in giving others the benefit of the doubt until proven otherwise, as they have sought verification from the family (short=0.2, long=0.1)
+

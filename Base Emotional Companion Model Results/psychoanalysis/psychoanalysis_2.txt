@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user demonstrates a good thinking pattern by analyzing and understanding the game mechanics in-depth. They also show patience and understanding to the recipient of the message, suggesting they play more to understand better, instead of getting frustrated or upset (short=0.6, long=0.4)
+
+[[Cognitive Distortions]]
+- Description: There doesn't seem to be any significant cognitive distortions present in the user's input. They appear to have a clear and realistic understanding of the game mechanics (short=0.1, long=0.05)
+
+[[Defense Mechanisms]]
+- Description: No evident defense mechanisms are displayed in the user's input. The user seems open and willing to share their knowledge without any defensive or aggressive behavior (short=0.1, long=0.05)
+
+[[Maladaptive Patterns]]
+- Description: There are no apparent maladaptive patterns in the user's input. They seem to be engaging in a healthy and constructive discussion about the game (short=0.1, long=0.05)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to have a self-schema of being knowledgeable and experienced in the game. They believe in their ability to understand and explain the game mechanics effectively (short=0.6, long=0.3)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to regulate their emotions well, maintaining a neutral tone throughout their discussion. This is supported by the emotion analysis, which shows a high level of neutrality (short=0.7, long=0.4)
+
+[[Axioms / Core Beliefs]]
+- Description: The user seems to hold the core belief that understanding and mastery come with time and practice, as indicated by their suggestion to "play some more" to better understand the game (short=0.5, long=0.3)
+

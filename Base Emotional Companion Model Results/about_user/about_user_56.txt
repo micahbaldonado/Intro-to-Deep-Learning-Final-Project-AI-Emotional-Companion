@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is in a relationship with someone who has made her feel betrayed or deceived.": true,
+    "The user is experiencing strong feelings of anger and disgust.": true,
+    "The user's partner has been interacting with other girls in a way that the user finds inappropriate.": true
+  },
+  "unsure": {
+    "The user may be considering ending the relationship due to the betrayal": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user's partner may be emotionally manipulative, using his lack of friends and their neediness as an excuse for inappropriate behavior": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user may feel undervalued or disrespected in the relationship": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be struggling with trust issues in the relationship": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    }
+  }
+}

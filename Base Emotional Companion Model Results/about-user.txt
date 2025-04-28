@@ -1,0 +1,24 @@
+=== About User Memory Log ===
+
+{
+  "certain": {
+    "The user is experiencing strong feelings of anger.": true,
+    "The user feels hatred towards everyone and everything.": true,
+    "The user believes their parents hate them.": true
+  },
+  "unsure": {
+    "The user may be dealing with self-esteem issues": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be experiencing depression": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user may have suicidal thoughts, given the cut-off sentence": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}
+

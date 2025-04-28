@@ -1,0 +1,35 @@
+{
+  "certain": {
+    "The user was bullied in grade 7/8 and didn't have many friends during that time.": true,
+    "The user experienced a hurtful incident involving a younger girl who insulted her appearance.": true,
+    "The user changed schools and made good friends.": true,
+    "The user is currently in a university and has a kind boyfriend.": true,
+    "The user recently encountered the girl who insulted her in the past.": true
+  },
+  "unsure": {
+    "The user might still be holding onto the past and the hurtful experiences": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be seeking closure or understanding from the girl who insulted her": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might be feeling better now but still carries some emotional scars from the past": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might be feeling a mix of disgust and anger towards the girl who insulted her": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user might be feeling fear and surprise when she saw the girl again": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user might be feeling neutral or minimal joy about her current life": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

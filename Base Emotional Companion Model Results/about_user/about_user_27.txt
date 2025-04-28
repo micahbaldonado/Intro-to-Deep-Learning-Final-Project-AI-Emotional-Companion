@@ -1,0 +1,22 @@
+{
+  "certain": {
+    "The user is 27 years old.": true,
+    "The user is a sports enthusiast, particularly interested in NFL and NHL.": true,
+    "The user is concerned about the fairness of referee decisions in sports games.": true,
+    "The user is upset about a specific incident in a game where they believe a penalty was called due to the result of the play, not the play itself.": true
+  },
+  "unsure": {
+    "The user may be feeling frustrated with the current state of officiating in sports": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be advocating for changes in the way penalties are assessed in sports": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user could be seeking validation or agreement with their observations and opinions": {
+      "short_term": 0.7,
+      "long_term": 0.3
+    }
+  }
+}

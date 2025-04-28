@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is confused about how timezones work.": true,
+    "Someone has sent the user a message with a picture as \"evidence\".": true,
+    "The user believes the message was sent around 7-8 AM their time.": true
+  },
+  "unsure": {
+    "The user might be involved in a disagreement or misunderstanding with another person": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might feel surprised or confused by the situation they are in": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be experiencing a minor level of anger or disgust": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    },
+    "The user might have minor feelings of joy, sadness, or fear": {
+      "short_term": 0.1,
+      "long_term": 0.05
+    }
+  }
+}

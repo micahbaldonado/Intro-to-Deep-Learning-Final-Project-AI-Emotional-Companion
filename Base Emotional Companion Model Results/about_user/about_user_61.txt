@@ -1,0 +1,27 @@
+{
+  "certain": {
+    "The user is speaking from their personal perspective.": true
+  },
+  "unsure": {
+    "The user may be feeling generally neutral about the events they're discussing": {
+      "short_term": 0.5,
+      "long_term": 0.5
+    },
+    "The user may be experiencing some sadness related to the events": {
+      "short_term": 0.2,
+      "long_term": 0.2
+    },
+    "The user may have some fear or anger associated with the events": {
+      "short_term": 0.1,
+      "long_term": 0.1
+    },
+    "The user may feel some level of disgust towards the events": {
+      "short_term": 0.07,
+      "long_term": 0.07
+    },
+    "The user may have a small amount of joy or surprise related to the events": {
+      "short_term": 0.04,
+      "long_term": 0.04
+    }
+  }
+}

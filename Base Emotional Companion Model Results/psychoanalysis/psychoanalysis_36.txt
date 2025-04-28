@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to display a pattern of engaging with fictional characters on a personal level, which may suggest a tendency towards escapism or a strong imaginative capacity (short=0.3, long=0.15)
+
+[[Cognitive Distortions]]
+- Description: There's no clear evidence of cognitive distortions from this input (short=0.1, long=0.05)
+
+[[Defense Mechanisms]]
+- Description: The user's interaction with a fictional character may suggest a use of fantasy as a defense mechanism, a form of mental escape from reality (short=0.2, long=0.1)
+
+[[Maladaptive Patterns]]
+- Description: If the user frequently interacts with media in a way that interferes with their real-life social interactions, this could be considered a maladaptive pattern (short=0.2, long=0.1)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user may see themselves as someone who is quick-witted or clever, as indicated by their prompt and humorous reply to the fictional character (short=0.3, long=0.2)
+
+[[Emotional Regulation Patterns]]
+- Description: The user may be using humor and engagement with media as a form of emotional regulation (short=0.3, long=0.2)
+
+[[Axioms / Core Beliefs]]
+- Description: It's difficult to infer core beliefs from this input (short=0.1, long=0.05)
+

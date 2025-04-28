@@ -1,0 +1,19 @@
+{
+  "certain": {
+    "The user has a negative opinion about the \"Oak street innkeeper.\"": true
+  },
+  "unsure": {
+    "The user may have had a bad experience at the Oak street inn": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is feeling predominantly disgusted, possibly due to this negative experience": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may also be feeling sad about the situation": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

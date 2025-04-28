@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user turned 21 on the 17th.": true,
+    "The user collects video games and has close to 480 games in their collection.": true,
+    "The user is planning to post their collection on a platform called gamecollecting.": true,
+    "The user has a goal to reach 500 games in their collection this year.": true,
+    "The user is planning to create a complete list of their games and post it on gamecollecting.": true,
+    "The user owns a special edition of Final Fantasy 7, which they consider one of their favorite pieces.": true
+  },
+  "unsure": {
+    "The user is excited about their collection and sharing it": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be seeking validation or feedback from the gamecollecting community": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be feeling a sense of accomplishment about turning 21 and their game collection": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user may have a preference for physical games over digital ones (based on the emphasis on \"physical\" games)": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    }
+  }
+}

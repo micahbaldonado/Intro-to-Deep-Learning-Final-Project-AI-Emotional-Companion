@@ -1,0 +1,37 @@
+{
+  "certain": {
+    "The user is in a relationship with someone who maintains close friendships with 2 other girls.": true,
+    "The user's partner has been more secretive recently, particularly with his phone.": true,
+    "The user has discovered that her partner and these girls exchange pictures, compliments, and express missing each other.": true,
+    "The user's partner visited one of these girls without informing the user.": true,
+    "The user confronted her partner about these issues.": true,
+    "The user's partner claims he loves her and is not in love with the other girls.": true,
+    "The user is unsure about the future of the relationship due to trust issues.": true
+  },
+  "unsure": {
+    "The user's partner may have feelings for one or both of the other girls": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may end the relationship due to trust issues": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user's partner may be emotionally cheating on her": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user's partner may be maintaining these friendships out of a fear of losing friends": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user may feel betrayed and hurt": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may be experiencing fear about the future of the relationship": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    }
+  }
+}

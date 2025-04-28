@@ -1,0 +1,27 @@
+{
+  "certain": {
+    "The user is a parent of an 8-month-old baby.": true,
+    "The user is seeking advice on how to improve their baby's naptime routine.": true,
+    "The user enjoys nursing their baby to sleep and doesn't mind night wakings.": true,
+    "The user is currently using an ergo for daytime naps, which is causing back pain.": true,
+    "The user has tried a \"camping out-CIO\" sleep training method, which they found difficult.": true
+  },
+  "unsure": {
+    "The user may be feeling overwhelmed or stressed due to the baby's naptime routine": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be open to trying different sleep training methods, despite having a negative experience with the \"camping out-CIO\" method": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may prefer a sleep training method that allows them to accomplish tasks around the house while the baby naps": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user might be feeling a mix of joy and neutrality towards their current parenting situation, with minor feelings of sadness, fear, anger, disgust, and surprise": {
+      "short_term": 0.9,
+      "long_term": 0.7
+    }
+  }
+}

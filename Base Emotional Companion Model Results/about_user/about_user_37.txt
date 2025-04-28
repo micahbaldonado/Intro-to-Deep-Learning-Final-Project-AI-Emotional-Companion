@@ -1,0 +1,22 @@
+{
+  "certain": {
+    "The user is providing advice on job and college applications.": true,
+    "The user believes in having multiple options before making a decision.": true,
+    "The user suggests seeking help for resume creation.": true,
+    "The user states that the process of getting hired or accepted into a program is time-consuming and involves paperwork.": true
+  },
+  "unsure": {
+    "The user is currently applying for jobs or colleges": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user has experience in job or college applications": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user is a career counsellor or has a role in career guidance": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    }
+  }
+}

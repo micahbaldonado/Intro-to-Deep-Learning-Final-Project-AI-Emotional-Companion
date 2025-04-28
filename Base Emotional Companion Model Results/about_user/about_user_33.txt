@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user has ADHD.": true
+  },
+  "unsure": {
+    "The user is feeling overwhelmed or frustrated due to their ADHD": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is attempting to communicate a complex or lengthy story": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be feeling a bit sad due to their struggle with ADHD": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user may be feeling surprised or confused about their own behavior": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    }
+  }
+}

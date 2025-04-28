@@ -1,0 +1,24 @@
+{
+  "certain": {
+    "The user is frequently online due to their PC always running for uploading or rendering tasks.": true,
+    "The user denies purposely ignoring the person they are referring to.": true
+  },
+  "unsure": {
+    "The user may feel misunderstood or unfairly accused": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be experiencing conflict or tension with someone": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be involved in a profession or hobby that requires constant computer use": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be feeling some level of anger or frustration, given the emotion analysis": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    }
+  }
+}

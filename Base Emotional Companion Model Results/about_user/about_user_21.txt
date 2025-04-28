@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is a golfer who takes precautions to avoid losing their gear.": true,
+    "The user is advising others to label their golf equipment with their contact information.": true,
+    "The user has had positive experiences with this method, having been contacted twice after leaving something on the green.": true
+  },
+  "unsure": {
+    "The user may have lost a piece of golf gear recently": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be feeling sad due to a recent loss of golf equipment": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be part of a golf club or organization": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    }
+  }
+}

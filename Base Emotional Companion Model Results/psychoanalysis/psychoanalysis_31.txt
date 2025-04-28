@@ -1,0 +1,49 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user demonstrates a clear understanding of the situation and their feelings towards it, which is a healthy pattern of thinking (short=0.8, long=0.6)
+- Another possible insight: The user seems to be avoiding direct confrontation, which could be a maladaptive avoidance strategy (short=0.6, long=0.3)
+
+[[Cognitive Distortions]]
+- Description: There is a possibility of 'Mind Reading' cognitive distortion, where the user presumes the girl's intentions without clear evidence (short=0.5, long=0.3)
+- Another possible insight: The user might be 'Labeling' the girl as needy and annoying based on her actions, which is a cognitive distortion (short=0.4, long=0.2)
+
+[[Defense Mechanisms]]
+- Description: The user could be using 'Denial' as a defense mechanism, not acknowledging the girl's feelings towards him (short=0.4, long=0.2)
+- Another possible insight: The user might be using 'Projection', attributing his discomfort to the girl's actions (short=0.3, long=0.1)
+
+[[Maladaptive Patterns]]
+- Description: The user could be demonstrating 'Avoidance' by not addressing the situation directly (short=0.6, long=0.4)
+- Another possible insight: The user's tendency to make assumptions about others' intentions could be a maladaptive pattern (short=0.4, long=0.2)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to value direct communication and honesty, as indicated by their respect for the girl if she were to express her feelings (short=0.7, long=0.5)
+- Another possible insight: The user may see themselves as a non-confrontational person, which could be influencing their approach to this situation (short=0.5, long=0.3)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to be managing their emotions by distancing themselves from the situation (short=0.6, long=0.4)
+- Another possible insight: The user's fear and disgust emotions could be indicative of a discomfort with the situation, they may need strategies to cope with these feelings (short=0.5, long=0.3)
+
+[[Axioms / Core Beliefs]]
+- Description: The user seems to believe that people should be direct and honest about their feelings, as suggested by their respect for the girl if she were to express her feelings (short=0.7, long=0.5)
+- Another possible insight: The user might hold a belief that they should avoid confrontations, as indicated by their avoidance of addressing the situation directly (short=0.5, long=0.3)
+

@@ -1,0 +1,30 @@
+{
+  "certain": {
+    "The user is a sophomore in high school.": true,
+    "There is a girl in the user's school who has a crush on him.": true,
+    "The girl is part of the user's circle of friends.": true,
+    "The user is aware that the girl has feelings for him.": true,
+    "The user does not want to date the girl.": true,
+    "The girl has recently started dating another guy.": true,
+    "The girl has been trying to get the user's attention by talking about her new relationship.": true,
+    "The girl has not directly told the user about her feelings for him.": true
+  },
+  "unsure": {
+    "The user might feel uncomfortable or pressured by the girl's behavior": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be seeking advice on how to handle the situation": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might feel a lack of respect for the girl due to her indirect approach": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be experiencing fear due to the girl's forwardness (e.g., talking about marriage)": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    }
+  }
+}

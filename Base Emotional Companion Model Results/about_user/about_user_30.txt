@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user is currently unemployed but has a job interview scheduled in Gardena.": true,
+    "The user resides in Azusa.": true,
+    "The user is seeking transportation assistance to and from the job interview.": true,
+    "The user is not interested in public transit, taxi, or Zipcar as a means of transportation.": true,
+    "The user is willing to pay for this assistance.": true,
+    "The user is hopeful about the potential job as it pays well.": true
+  },
+  "unsure": {
+    "The user is financially struggling": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user prefers supporting individuals over corporations": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user is feeling slightly anxious about the job interview": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user may lack a personal vehicle or driver's license": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    }
+  }
+}

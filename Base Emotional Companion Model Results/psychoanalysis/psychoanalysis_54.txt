@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to be engaging in mind reading, assuming they know what another person is feeling or thinking without any concrete evidence. This is generally considered a bad thinking pattern as it can lead to misinterpretations and misunderstandings (short=0.4, long=0.2)
+
+[[Cognitive Distortions]]
+- Description: The statement suggests a possible cognitive distortion of jumping to conclusions. The user has made a definitive interpretation ("he loves or at least has feelings for this girl") without clear evidence to support this belief (short=0.4, long=0.2)
+
+[[Defense Mechanisms]]
+- Description: The user's statement doesn't provide clear evidence of any specific defense mechanisms (short=0.1, long=0.05)
+
+[[Maladaptive Patterns]]
+- Description: If this type of thinking leads to distress or negative consequences for the user, it could be considered a maladaptive pattern. The user is making assumptions about others' feelings, which could lead to unnecessary anxiety or tension (short=0.3, long=0.15)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user's statement doesn't provide clear evidence about their self-schema or inferred beliefs (short=0.1, long=0.05)
+
+[[Emotional Regulation Patterns]]
+- Description: The user's statement doesn't provide clear evidence about their emotional regulation patterns (short=0.1, long=0.05)
+
+[[Axioms / Core Beliefs]]
+- Description: The user's statement doesn't provide clear evidence about their axioms or core beliefs (short=0.1, long=0.05)
+

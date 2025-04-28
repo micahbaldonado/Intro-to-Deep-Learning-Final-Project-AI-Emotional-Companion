@@ -1,0 +1,29 @@
+{
+  "certain": {
+    "The user is 18 years old.": true,
+    "The user has read the biography \"The Beatles\" written by Bob Spitz.": true,
+    "The user is discussing the meaning behind some Beatles songs.": true
+  },
+  "unsure": {
+    "The user may be a Beatles fan": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    },
+    "The user may be upset or frustrated given the higher levels of anger and disgust emotions": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user may be interested in music history or song analysis": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user may have a habit of reading biographies or non-fiction": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user might be involved in a debate or discussion about The Beatles and their music": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    }
+  }
+}

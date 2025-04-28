@@ -1,0 +1,10 @@
+{
+  "certain": {
+    "The user recently ended an engagement.": true,
+    "The user is in the process of selling unworn Tiffany bands.": true,
+    "The user has successfully sold the men's platinum band for $900 on eBay.": true,
+    "The user is seeking advice on how to sell the women's band, which is worth $3200.": true,
+    "The user is willing to provide a good deal to potential buyers but also wants to recoup as much of their losses as possible.": true
+  },
+  "unsure": {}
+}

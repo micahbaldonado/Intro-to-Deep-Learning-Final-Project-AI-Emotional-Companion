@@ -1,0 +1,32 @@
+{
+  "certain": {
+    "The user is a 23-year-old male.": true,
+    "The user is in a good place in life, with a job he loves, hobbies, trusted friends, and is attending grad school part-time.": true,
+    "The user is questioning the importance of happiness versus meaning in life.": true,
+    "The user is interested in creating a solo musical project.": true,
+    "The user feels that his needs for fundamental happiness (food, shelter, social interaction) are met.": true,
+    "The user has noticed a change in what brings him happiness, with material possessions like gadgets no longer providing the same joy.": true
+  },
+  "unsure": {
+    "The user may be experiencing a mild existential crisis": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be feeling a sense of dissatisfaction or boredom with his current life": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be seeking a deeper purpose or meaning in his life": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user may feel accomplished but also stagnant, as he mentions feeling like he's \"made it\"": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be struggling with the idea of sacrificing immediate happiness for long-term fulfillment": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    }
+  }
+}

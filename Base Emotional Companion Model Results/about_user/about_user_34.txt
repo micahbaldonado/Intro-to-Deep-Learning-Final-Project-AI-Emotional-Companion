@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user is dissatisfied with a political figure's performance.": true,
+    "The user feels the political figure has been inconsistent with campaign promises.": true,
+    "The user is concerned about issues such as public transit fares, racial profiling, tax hikes, animal rights, and decriminalization of marijuana.": true,
+    "The user voted for this political figure due to a desire for change.": true,
+    "The user is likely to vote for this political figure again due to lack of appealing alternatives.": true
+  },
+  "unsure": {
+    "The user's personal political leanings": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user's personal experiences with the issues mentioned (e.g., public transit, racial profiling, etc.)": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user's level of political engagement beyond voting": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

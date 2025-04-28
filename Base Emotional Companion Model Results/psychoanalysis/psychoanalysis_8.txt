@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user demonstrates good analytical thinking patterns, objectively evaluating each card's value and synergy in the context of an elf deck (short=0.8, long=0.7)
+
+[[Cognitive Distortions]]
+- Description: There are no clear cognitive distortions in this input. The user seems to be providing a balanced and objective analysis of the situation (short=0.1, long=0.05)
+
+[[Defense Mechanisms]]
+- Description: There are no apparent defense mechanisms in this input. The user is focused on analyzing a game strategy, not dealing with personal emotional or psychological issues (short=0.1, long=0.05)
+
+[[Maladaptive Patterns]]
+- Description: No maladaptive patterns are observed in this input. The user is engaged in a constructive critique of a game strategy (short=0.1, long=0.05)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user appears to have a strong belief in their knowledge and understanding of the game and its strategies, which suggests a self-schema of competence and expertise in this area (short=0.5, long=0.4)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to have a neutral emotional state while analyzing the game strategy. This suggests a good ability to regulate emotions during problem-solving tasks (short=0.6, long=0.5)
+
+[[Axioms / Core Beliefs]]
+- Description: The user seems to believe in the importance of strategic planning and critical analysis in game play, which may reflect a broader belief in the value of these skills in other areas of life (short=0.4, long=0.3)
+

@@ -1,0 +1,45 @@
+=== Session Psychoanalysis Log ===
+
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: This statement displays negative thinking patterns, including overgeneralization and personalization. The user is generalizing their negative feelings towards everyone and everything, and personalizing their parents' feelings as directed towards them (short=0.8, long=0.7)
+
+[[Cognitive Distortions]]
+- Description: The user's statement shows signs of all-or-nothing thinking (believing that everything is bad and everyone hates them) and mind-reading (assuming that their parents hate them without concrete evidence) (short=0.8, long=0.7)
+
+[[Defense Mechanisms]]
+- Description: The user might be employing projection as a defense mechanism, attributing their own negative feelings onto others (believing that everyone hates them) (short=0.5, long=0.4)
+
+[[Maladaptive Patterns]]
+- Description: The user shows signs of maladaptive patterns, specifically rumination and catastrophizing (thinking that everything is bad and everyone hates them) (short=0.7, long=0.6)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to have a negative self-schema, believing that they are universally disliked, including by their parents (short=0.8, long=0.7)
+
+[[Emotional Regulation Patterns]]
+- Description: The user seems to have difficulty regulating negative emotions, as demonstrated by the high level of expressed anger and sadness (short=0.8, long=0.7)
+
+[[Axioms / Core Beliefs]]
+- Description: The user's core beliefs appear to be negative, believing that they are universally disliked and that everything in life is negative (short=0.8, long=0.7)
+- Another possible insight: The user may hold a core belief that they are undeserving of love or positive relationships, as indicated by their belief that their parents hate them (short=0.6, long=0.5)
+

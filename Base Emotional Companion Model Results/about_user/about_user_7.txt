@@ -1,0 +1,20 @@
+{
+  "certain": {
+    "The user is upset with people who seek attention on the platform.": true,
+    "The user is requesting a rule change to only allow human pictures if it's related to the purpose of the subreddit.": true
+  },
+  "unsure": {
+    "The user may have had negative experiences with attention-seeking behavior online": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be a frequent visitor or participant in the subreddit and feels strongly about its content and rules": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may have a general dislike or distrust towards people who complain about receiving unwanted attention": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    }
+  }
+}

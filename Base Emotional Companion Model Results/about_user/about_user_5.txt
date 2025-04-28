@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user had a significant sickness event in elementary school.": true,
+    "The user's mother was not present at the time of the incident due to running errands.": true,
+    "The user broke a mercury thermometer and put it back in their mouth.": true
+  },
+  "unsure": {
+    "The user may have a tendency towards risky behavior or lack of understanding of potential dangers": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might have felt neglected or alone during their sickness, given the absence of their mother": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might have a tendency to downplay or dismiss serious situations, given their casual attitude towards the broken thermometer incident": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might still carry some feelings of disgust or fear related to this incident, given the high levels of these emotions in their input": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    }
+  }
+}

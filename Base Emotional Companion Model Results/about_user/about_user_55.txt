@@ -1,0 +1,31 @@
+{
+  "certain": {
+    "The user has recently confronted someone.": true
+  },
+  "unsure": {
+    "The user is upset or angry about the situation": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user was afraid or anxious during the confrontation": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user may feel a sense of disgust towards the person they confronted": {
+      "short_term": 0.02,
+      "long_term": 0.02
+    },
+    "The user is not feeling joyful or surprised about the situation": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    },
+    "The user is not in a neutral emotional state": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    },
+    "The user may be feeling some sadness": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "certain": {
+    "The user is in a relationship that they are questioning.": true,
+    "The user is experiencing a lack of trust towards their partner.": true,
+    "The user is currently in a state of emotional turmoil, as indicated by the mixture of emotions, with a predominance of neutrality and disgust.": true
+  },
+  "unsure": {
+    "The user might be considering ending the relationship": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may have recently experienced a significant event or revelation that has caused them to question their relationship": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be feeling angry or betrayed by their partner, as indicated by the presence of anger and disgust in their emotional profile": {
+      "short_term": 0.5,
+      "long_term": 0.3
+    },
+    "The user might be feeling sad or fearful about the potential end of their relationship, as indicated by the presence of sadness and fear in their emotional profile": {
+      "short_term": 0.4,
+      "long_term": 0.2
+    }
+  }
+}

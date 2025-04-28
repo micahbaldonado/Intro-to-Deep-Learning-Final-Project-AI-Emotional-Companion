@@ -1,0 +1,19 @@
+{
+  "certain": {
+    "The user believes that a certain individual has feelings for a girl.": true
+  },
+  "unsure": {
+    "The user might be feeling conflicted or confused about this situation": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may be feeling some level of discomfort or dissatisfaction, given the slight levels of disgust and anger detected": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user could be experiencing a small amount of happiness or positive feelings, suggested by the detected level of joy": {
+      "short_term": 0.2,
+      "long_term": 0.1
+    }
+  }
+}

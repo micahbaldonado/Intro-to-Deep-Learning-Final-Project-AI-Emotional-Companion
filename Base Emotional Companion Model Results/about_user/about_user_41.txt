@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user is having issues with SteamRep and SourceOP.": true,
+    "The user feels that their concerns are not being addressed properly.": true,
+    "The user believes there is a conflict of interest between SteamRep and its partners.": true,
+    "The user has had their reputation on SourceOP deleted without a clear reason.": true,
+    "The user has tried to communicate with Mattie, a SteamRep admin, but feels dismissed and ignored.": true,
+    "The user has found similar complaints on Reddit.": true
+  },
+  "unsure": {
+    "The user may be a high tier trader": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user may feel isolated due to the lack of transparency and communication": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user may be angry and frustrated due to their experiences": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might be seeking a more transparent and fair process for reporting issues": {
+      "short_term": 0.8,
+      "long_term": 0.7
+    }
+  }
+}

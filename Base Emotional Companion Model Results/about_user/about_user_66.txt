@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user had a negative experience yesterday.": true,
+    "The user feels that people are forming opinions about them based on comments.": true
+  },
+  "unsure": {
+    "The user feels misunderstood or misrepresented": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is experiencing fear related to the incident": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user may be surprised by the reactions of others": {
+      "short_term": 0.3,
+      "long_term": 0.2
+    },
+    "The user might be feeling a low level of sadness, anger, and disgust": {
+      "short_term": 0.1,
+      "long_term": 0.05
+    },
+    "The user may have a low level of joy, possibly due to resilience or optimism": {
+      "short_term": 0.05,
+      "long_term": 0.02
+    }
+  }
+}

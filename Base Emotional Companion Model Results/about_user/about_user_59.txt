@@ -1,0 +1,23 @@
+{
+  "certain": {
+    "The user is discussing their perception of another person's perspective.": true
+  },
+  "unsure": {
+    "The user feels disgusted about the situation": {
+      "short_term": 0.86,
+      "long_term": 0.86
+    },
+    "The user is neutral or indifferent about the situation": {
+      "short_term": 0.1,
+      "long_term": 0.1
+    },
+    "The user might be slightly angry or sad about the situation": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    },
+    "The user has very minimal feelings of surprise, joy, or fear concerning the situation": {
+      "short_term": 0.01,
+      "long_term": 0.01
+    }
+  }
+}

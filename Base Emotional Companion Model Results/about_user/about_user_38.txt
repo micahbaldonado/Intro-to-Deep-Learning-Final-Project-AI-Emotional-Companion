@@ -1,0 +1,28 @@
+{
+  "certain": {
+    "The user has recently purchased the Archeum founder pack on Steam.": true,
+    "The user experienced an issue when they first opened Glyph from Steam and closed a popup without applying their CD key.": true,
+    "The user has been receiving an Error 2028 when they try to update the game.": true,
+    "The user contacted support and was given access to the Beta version, but not the Alpha version.": true,
+    "The user has reopened their support ticket but has not received a response for 3 days.": true,
+    "The user has been able to try the Beta version of the game.": true
+  },
+  "unsure": {
+    "The user feels regret for not applying the key the first time they opened Glyph": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user is hopeful that their issue will be resolved soon": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user is suggesting improvements to the key recognition and application process in Glyph": {
+      "short_term": 0.8,
+      "long_term": 0.6
+    },
+    "The user may feel a bit frustrated or disappointed due to the lack of response from support and the issues they've faced": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is dealing with a conflict situation involving accusations of theft.": true,
+    "The user reacted initially with anger and frustration to the accusations.": true,
+    "The user regrets their initial response and has taken steps to rectify the situation.": true
+  },
+  "unsure": {
+    "The user may be struggling with impulse control": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    },
+    "The user might be feeling isolated or misunderstood due to the online backlash": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user could be experiencing stress or anxiety due to the incident": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    }
+  }
+}

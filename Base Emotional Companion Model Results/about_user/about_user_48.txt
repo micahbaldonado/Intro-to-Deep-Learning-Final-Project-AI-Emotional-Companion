@@ -1,0 +1,21 @@
+{
+  "certain": {
+    "The user is discussing inconsistencies in the naming of characters in different versions of a game.": true,
+    "The user is expressing dissatisfaction with these inconsistencies.": true,
+    "The user is highly familiar with the game and its different versions.": true
+  },
+  "unsure": {
+    "The user is a frequent player of the game": {
+      "short_term": 0.7,
+      "long_term": 0.5
+    },
+    "The user might be seeking a solution to the inconsistency issue": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    },
+    "The user's strong emotional response may indicate a deep investment in the game": {
+      "short_term": 0.6,
+      "long_term": 0.4
+    }
+  }
+}

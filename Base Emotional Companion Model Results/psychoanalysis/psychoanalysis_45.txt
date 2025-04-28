@@ -1,0 +1,42 @@
+[Good or Bad Thinking Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Cognitive Distortions]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Defense Mechanisms]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Maladaptive Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Inferred Beliefs / Self-Schema]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Emotional Regulation Patterns]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[Axioms / Core Beliefs]
+- No clear insight identified in this category. (short=0.05, long=0.01)
+
+[[Good or Bad Thinking Patterns]]
+- Description: The user seems to display a good thinking pattern of pragmatism and adaptability. They're suggesting a flexible approach to a task, which can be a sign of problem-solving and resilience (short=0.6, long=0.4)
+
+[[Cognitive Distortions]]
+- Description: There doesn't appear to be any clear cognitive distortions in the provided text. The user seems to have a balanced and realistic outlook on the task at hand (short=0.9, long=0.8)
+
+[[Defense Mechanisms]]
+- Description: No evident use of defense mechanisms is observed in the user's input. They seem to be dealing with the situation directly and practically (short=0.9, long=0.8)
+
+[[Maladaptive Patterns]]
+- Description: There's no apparent maladaptive pattern in the user's approach. They're suggesting a proactive and flexible strategy to handle the task, which is generally adaptive (short=0.9, long=0.8)
+
+[[Inferred Beliefs / Self-Schema]]
+- Description: The user seems to believe in their ability to tackle tasks in a non-linear, flexible way. This suggests a self-schema of competence and adaptability (short=0.6, long=0.4)
+
+[[Emotional Regulation Patterns]]
+- Description: The user's emotions are predominantly neutral, suggesting they may be effectively regulating their emotions in this context. They appear to approach the situation with calm and pragmatic thinking (short=0.7, long=0.5)
+
+[[Axioms / Core Beliefs]]
+- Description: The user's approach suggests a core belief that it's more effective to handle tasks in a way that suits their current mindset and energy levels, rather than forcing themselves to follow a rigid sequence (short=0.6, long=0.4)
+

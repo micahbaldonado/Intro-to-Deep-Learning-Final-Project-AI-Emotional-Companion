@@ -1,0 +1,843 @@
+=== SUMMARY STATISTICS ===
+Average BERT Confidence     : 0.731
+Average Semantic Similarity : 0.491
+Average Empathy Score       : 0.570
+======================================================================
+
+[1]
+User Input:
+[1] Yesterday on the 17th I finally turned 21. I have decided that I would like to post my entire collection of video games (minus the ones I have through Steam) here on gamecollecting in celebration. I have close to 480 video games ( 70 of which are on Steam) and I hope to finally reach 500 this year. In the coming month; or how ever long this takes me; I would like to have pictures for every physical game I own and a complete list of all of them in a google.doc to post on here. To start things off I would like to share with you guys one of my favorite pieces in my collection. 
+ My Greatest Hits Final Fantasy 7 Double Sephiroth Misprint. 
+ Here is a reflection shot to prove it's legit.
+
+Model Output:
+It seems like you're really excited about your video game collection, and rightfully so! That's a significant accomplishment. How does your passion for collecting video games make you feel? And, is there a specific reason why you prefer physical games over digital ones?
+
+BERT Confidence       : 0.727
+Semantic Similarity   : 0.508
+Empathy Score         : 0.694
+======================================================================
+
+[2]
+User Input:
+[2] Now finally to Kassadin his blink by far requires the least amount effort to use successfully (and to a new/low skill player that's a big thing) because it deals it's damage upfront in an AoE, you just have to land remotely close to any target you want to hit. It also gains an increase in damage when you use it again, though, yes the base and increased damage is small, all damage adds up. It also has a short cooldown even at rank 1. The only negative to this ability is that it's mana cost increases on consequitive uses. But like the other champions it becomes stronger when using it with other abilities. Kassadin's Nether Blade at max rank restores 40% of his missing mana if you hit an enemy champion; that is great synergy for an ability that can deplete mana quickly. 
+Now if you still don't understand, then play some more, you'll get it.
+
+Model Output:
+That's a very comprehensive analysis you've given there about Kassadin's abilities and gameplay. It seems like you have a deep understanding of the game, its mechanics, and how to strategize effectively. I can see that you're patient in explaining this to perhaps a less experienced player, which is commendable. 
+
+You seem to be neutral in your emotional state, and it's great to see that you're able to maintain a level-headed approach. There might be a slight hint of frustration or impatience, which is understandable when you're trying to help someone understand something that you find relatively straightforward. 
+
+Your suggestion to "play some more" to better understand the game indicates that you believe in the value of practice and experience. This is a healthy approach not only in gaming but also in many aspects of life. 
+
+Overall, you seem to manage your emotions well and have a realistic understanding of the game. You come across as knowledgeable and experienced, and it appears that you enjoy sharing your knowledge with others. Keep up the good work, and happy gaming!
+
+BERT Confidence       : 0.732
+Semantic Similarity   : 0.383
+Empathy Score         : 0.130
+======================================================================
+
+[3]
+User Input:
+[3] Thanks for doing this AMA! I would love your advice... 
+ I broke off an engagement and have been working on selling the unworn, brand new Tiffany bands. Tiffany wouldn't take them back because they were engraved with the wedding date at the time of sale. I took them to an excellent local jeweler who did a great job polishing out the engraving without changing the shape or size. I was able to sell the men's platinum band on eBay (original cost $1600) for $900. The women's band is worth $3200. I'm trying to give someone a good deal and manage to recoup as much of my losses as possible. Any hints or suggestions on getting it sold? I don't want to ask for too little but don't want to ask so much that I won't get buyers. I'm happy to PM you the link if it'd be helpful.
+
+Model Output:
+I can see you're trying to navigate a tough situation here, and I'm glad you've reached out for advice. It's admirable you're looking to offer a good deal to someone while also trying to recoup some of your losses. Selling valuable items like jewelry can be a bit tricky. You might want to consider getting an appraisal, if you haven't already, to ensure you're asking a fair price. Online platforms like eBay, as you've already used, can be effective. You could also consider specialized jewelry resale websites or consignment shops. Remember, the right buyer is out there. It's about finding a balance between your need to sell and their desire to find a good deal. How have you been feeling about this process?
+
+BERT Confidence       : 0.720
+Semantic Similarity   : 0.613
+Empathy Score         : 0.576
+======================================================================
+
+[4]
+User Input:
+[4] First off I would like to say how life changing this /r/bodyweightfitness has been. 
+ I have been diligently following the  chart and  have made great progress. 
+ For the first time I'm at a crossroads because I have progressed past Ring pushups and want to move towards another chest workout. I understand I can do rings-turned-out, but I'm going to be without rings for a few months. 
+ So, can I use Lever pushups instead of Planche for a better chest workout? I know it's a  very  objective opinion, but I would like to hear from anyone with experience.
+
+Model Output:
+It's fantastic to hear how much progress you've made with your fitness routine. It's clear you've been dedicated and committed to this journey. Transitioning from one workout to another can be daunting, especially if the resources you've been using will not be available. 
+
+Considering your situation, it seems like you're interested in Lever pushups as an alternative, which could potentially provide a good chest workout. It's a sensible idea to seek advice from those with experience. 
+
+What is it about Lever pushups that appeal to you? Is it mainly the focus on the chest muscles or are there other factors involved? It's okay if you're feeling uncertain or anxious about this change. It's a normal part of trying something new. Your consistent dedication to your fitness routine suggests that you have the resilience to navigate this change. Let's explore your thoughts and feelings around this together.
+
+BERT Confidence       : 0.738
+Semantic Similarity   : 0.698
+Empathy Score         : 0.962
+======================================================================
+
+[5]
+User Input:
+[5] When I was in elementary school I had to get sent home because I was throwing up. My mom set me up in bed with an old-fashioned mercury thermometer, ice pack, bucket, and a phone, but had to run to the store real quick. 
+ In the time she was gone, I had broken the mercury thermometer, decided it was fine, put it back in my mouth, and sucked on the cool tasting end.
+
+Model Output:
+It sounds like the experience you had during your elementary school years was quite intense and it's clear that it still stands out in your memory. How do you feel about it now as you look back? Do you notice any patterns or feelings that have carried over from that time?
+
+BERT Confidence       : 0.727
+Semantic Similarity   : 0.317
+Empathy Score         : 0.177
+======================================================================
+
+[6]
+User Input:
+[6] Just posted this in a thread in /r/askreddit and then I just posted it again here but not under my throwaway so here it goes again. 
+ "Throw away because whenever I recall this event I have to question my sanity. 
+ One time I saw myself. I was driving down a street in my town and walking down the sidewalk in the opposite direction was me. I feel crazy just typing it. My mouth fell open and I just stared. It looked exactly like me. Not like one of those times where you think, "wow that guy looks a lot like me," there were no noticeable differences between this guy and me. I only saw him for a few seconds because I was driving past him ; when I looked in my mirror after I went by I could still see him walking. I wanted to turn around and get another look, but I was just in awe and eventually it was too late. After I saw him, for the next hour or so I couldn't really think any clear thoughts. Strangest thing that has ever happened to me.
+
+Model Output:
+It sounds like a deeply unsettling experience you had, seeing someone who looked exactly like you. It's completely natural that such an unusual event would leave you feeling surprised and somewhat afraid. It's interesting that, despite the shock, you were able to observe the situation so keenly. 
+
+The fact that you question your sanity when recalling this event suggests that it may have had a significant impact on you. It's understandable to question what one experiences, especially when it's as extraordinary as seeing a double of oneself. 
+
+You also mentioned that you decided not to turn around for a second look. That could indicate a tendency to avoid confronting unsettling experiences. However, it could also be a natural reaction to the shock of the situation. 
+
+In any case, it's important to remember that our feelings and reactions to such unusual events are valid and worth exploring. If you're comfortable doing so, would you like to share more about how this experience has affected you?
+
+BERT Confidence       : 0.729
+Semantic Similarity   : 0.736
+Empathy Score         : 0.900
+======================================================================
+
+[7]
+User Input:
+[7] Not to the OP] Just post the animals here please. I don;t wanna see no attention whores who probably get zillion creepy pms and then try to get further attention by blaming how fucked up reddit/men-of-reddit are. 
+ Please, pretty please, with cherry on top! Add a rule here that humans only allowed if it serves the purpose of aww, and even then ask them to not complain about creepy pms afterwards.
+
+Model Output:
+It sounds like you're feeling frustrated with the current situation in this online space you're participating in. You seem to be upset with people who appear to be seeking attention and then complaining about receiving unwanted attention. Can you tell me more about why this bothers you? Are there specific instances that have made you feel this way? Understanding the context better could help us explore your feelings more deeply.
+
+BERT Confidence       : 0.734
+Semantic Similarity   : 0.270
+Empathy Score         : 0.976
+======================================================================
+
+[8]
+User Input:
+[8] There is exactly 11 elves in standard: 
+ 
+ Arbor elf: excellent 
+ 
+ Centaur's herald: bad for an elf deck (it's pretty much a centaur for all intent and purposes) 
+ 
+ Deathrite shaman: fine, but doesn't produce mana reliably in standard. 
+ 
+ Elvish Archdruid: center piece of the deck 
+ 
+ Elvish visionary: usually good as it adds an elf to the field and still digs for more elves. 
+ 
+ Golgari decoy: Mostly useless.  At best a 1of for a win condition, but even then, I don't see why you'd need it.  To expensive to really be part of the combo. 
+ 
+ Jarad, Golgari Lich Lord: see above. 
+ 
+ Korozda Guildmage: No synergy with the rest of the deck.  Sacrificing your elves for saproling goes completely against your strategy. 
+ 
+ Oak street inkeeper: Bad. 
+ 
+ Yeva's Forcemage: Useless 
+ 
+ Yeva, Nature's herald: might be useful to combo out during opponent's turn, but it doesn't help to get the combo going. 
+ 
+ 
+ All in all, you simply don't have the critical mass of decent elves required to make an elf deck.  At the very least, you want 8 reliable mana dorks at 1, here you only have 4 (again, shaman is not reliable).  You also want a good amount of 2cc elves, here, you only have 2, one of which requires green and doesn't help the strategy at all. 
+ As a strict aggro or midrange deck, it still doesn't have enough good elves.  Elvish archdruid by itself is not incentive enough to play worse creatures just because they are elves in that kind of deck.
+
+Model Output:
+It seems like you're deeply invested in the strategic aspects of the game and have a keen understanding of the strengths and weaknesses of each character in the elf deck. You appear to be analytical and objective in your evaluation, which are great skills to have both in games and in life. 
+
+I wonder what it is about this game that engages you so? Do you enjoy the problem-solving aspect, or is there something else that keeps pulling you back? Also, how do you deal with the frustration when the character options or strategies don't seem strong enough? 
+
+Sometimes, we can discover a lot about ourselves through how we approach and react to games. Learning to manage disappointment and still enjoy the game can be a valuable skill. Do you find that to be the case for you?
+
+BERT Confidence       : 0.746
+Semantic Similarity   : 0.409
+Empathy Score         : 0.252
+======================================================================
+
+[9]
+User Input:
+[9] I had a ps3 and Xbox 360 but I definitely felt the Xbox 360 was better; it was my preferred console. Now that a new generation is out I believe the PS4 and Xbox One both look great. A goal I have is to save up to be able to afford a PS4. I got an Xbox One on release day and I have been loving it, I haven't been playing it a lot though due to the lack of games I have. I currently only have Call of Duty: Ghosts (awful game, if you are thinking about it I personally would not recommend it), Dead Rising 3 (Awesome game, only really lasted a week for me because I have no one to play with and searching online to play with people sucks in that game), and Peggle 2 (Awesome game, lots of fun). A reason I would love to get a PS4 is because I want to play both systems in this generation, I don't want to say the PS4 is an awful system because that would not be right of me. You can not judge the other system without spending a decent amount of time with it. The PS4 looks like a solid system and I just have such an urge to get it. If you took the time to read this giant block of random text; thank you.
+
+Model Output:
+Thank you for sharing your thoughts and feelings about your gaming experience. It's clear that you have a passion for gaming and a desire to explore all the possibilities that different consoles can offer. 
+
+Your goal to save up for a PS4 shows determination and a willingness to invest time and resources in something you enjoy. It's also admirable to see your fair-minded approach, wanting to experience both systems before forming an opinion. 
+
+However, I sense some frustration and loneliness, particularly when you mentioned not having anyone to play with in Dead Rising 3, and some dissatisfaction with your current game library. These feelings are completely valid and normal, especially when you're investing so much in something you care about. 
+
+Your expressed fear emotion is also noted. Could this be related to the financial stress of affording a new gaming system or the fear of making a wrong choice between PS4 and Xbox One?
+
+It might be beneficial to consider exploring ways to connect with others who share your gaming interests, perhaps through online gaming communities or forums. It could also be helpful to reflect on your gaming experiences so far, and what you hope to gain from a new console. This could assist you in making a decision that aligns with your gaming preferences and financial situation. 
+
+Remember, it's okay to take your time and make the choice that feels right for you. Gaming should be enjoyable and fulfilling, so it's important to prioritize your personal enjoyment and satisfaction.
+
+BERT Confidence       : 0.727
+Semantic Similarity   : 0.737
+Empathy Score         : 0.761
+======================================================================
+
+[10]
+User Input:
+[10] Just my opinion: Use the G.I. bill and go to college for something. :-) 
+ From my experience, employers want college degrees. Military experience... not so much. Had a tough time finding a job and was well qualified. Once I had a degree: got a job immediately. 
+ Be certain to save money up in-case the G.I. bill takes 3 or 4 months to arrive. Some colleges will wait for the money to arrive, some need tuition payment up-front. Also rent, books, etc savings. I did not know this and found out the hard way... 
+ Apply for a number of colleges and/or jobs. Have lots of options and then pick from them. Have someone help you make a good resume. Getting hired at a good job or accepted to a  college / training program takes 3-6 months of paperwork going back-and-forth.
+
+Model Output:
+It sounds like you've had quite a journey with your military service, education, and job search. It's clear that you've learned a lot from these experiences and are now sharing your insights and advice to potentially help others. 
+
+I'm sensing that while you've had some challenges, particularly in finding employment and navigating the financial aspects of education, you've also found significant value in your college degree. How did it feel to see the immediate impact of your degree on your job prospects?
+
+Also, you mentioned having to learn some processes the hard way. Would you like to share more about that? Sometimes, reflecting on these experiences can help us understand our strengths and resilience better.
+
+Finally, it seems like you're driven by a desire to help others avoid difficulties you experienced. This shows a lot of empathy and kindness. Would you like to share any other advice or experiences that might be valuable for others?
+
+BERT Confidence       : 0.748
+Semantic Similarity   : 0.586
+Empathy Score         : 0.030
+======================================================================
+
+[11]
+User Input:
+[12] This is our second year living together. I've known about his close friendships with 2 other girls for about 2 years now, they message and text each other a lot. He always told me how he gives them advice etc. and showed me some where he is talking about their relationships with them. I've never been super comfortable with it but didn't worry over it. However, things have been different lately with him being suddenly super secretive and protective over his phone, and there's a lot of shrinking of facebook messages if I come near etc. So this flipped a crazy switch for me and I checked his phone. Through this I discovered the following: 
+ 
+ They have exchanged pictures. Clothed ones. 
+ He constantly compliments them, including their appearance. e.g. "You're not chubby. If you're chubby than I like chubby girls" 
+ There is a lot of flirting.  
+ They talk about how much they miss each other 
+ 
+ The one I have the most problem with: 
+ 
+ He went to see one of the girls, without telling me over Easter.  
+ 
+ He was with me on that day and told me he had to go meet family in the town over. In the texts he told the other girl he was sorry he was going to be late he was "held up". I don't believe they physically cheated due to the messages being about how they played board games and he did go to see family after her (I checked with them). 
+ This all lead me to think he loves or at least has feelings for this girl. 
+ So I confronted him. 
+ He claims he loves me and isn't in love with either of the other girls. He said that it was stupid of him not to tell me about seeing the girl (you don't say!). He kept saying how he doesn't have many friends, he talks to them like this because they are needy and he doesn't want to lose friends, and that he knows he crossed boundaries. 
+ This is all very unconvincing. I haven't spoken to him much since then, I'm trying to process it. I'm not sure if this relationship can continue, and if I would be able to trust him again.
+
+Model Output:
+I'm really sorry to hear that you're going through this. It's clear that you're feeling hurt and unsure about your relationship due to these recent discoveries. Trust is a key element in any relationship, and when it's broken, it can be very difficult to rebuild. It's also understandable that you're feeling unsure about your partner's feelings towards these other girls. 
+
+When it comes to relationships, communication is crucial. It's positive that you've already confronted your partner about your concerns. However, it might be beneficial to have a more in-depth conversation about your feelings and the future of your relationship. This could provide you with a clearer understanding of where you both stand and what steps need to be taken moving forward. 
+
+It's also important to remember to take care of yourself during this time. This is a challenging situation, and it's crucial to ensure that your emotional well-being is taken care of. If you feel comfortable, you might find it helpful to talk to a close friend or family member about what you're going through. 
+
+Remember, it's okay to feel unsure and it's okay to take the time to think things over. It's important to make decisions that are best for you and your well-being. 
+
+How are you taking care of yourself during this time?
+
+BERT Confidence       : 0.737
+Semantic Similarity   : 0.363
+Empathy Score         : 0.850
+======================================================================
+
+[12]
+User Input:
+[14] Before fashion became a hobby for me, I did it for well... the women. My sisters would dress me up, then in High School I would dress because of the compliments I would get from girls. My style's evolved to a point where the people around me know me as being one of the most fashionable men they know, and people will come to me for tips and advice. Even girls. 
+ As a college freshman in a nerdy top-ranking school however, fashion hardly matters to most girls, as long as you look decent. Most girls I've been talking to with romantic interest have never been... the best dressers. On dates I would dress very standard and safe so as to not overdress them or make them feel uncomfortable. 
+ The girl I am currently talking to, takes this even further. She says she likes guys who dress down and  prefers  a man in "sweatpants and a t-shirt" than anything else really. 
+ At this point, I'm thinking of abandoning fashion as a hobby, going back to dressing solely to attract women. So my question is, why should I keep trying to dress as well as I do if in most cases it doesn't really matter, and right now is actually even hurting my chances?
+
+Model Output:
+It sounds like you're experiencing a conflict between your personal interest in fashion and the desire to attract a romantic partner whose preferences don't align with your own. This is a common scenario where personal identity and external validation intersect. It's natural to want to be attractive to others, especially in romantic pursuits, but it's also important to preserve the aspects of your personality that make you unique and happy.
+
+You mentioned that you're considering abandoning fashion as a hobby. I wonder how that makes you feel? What would you miss about it? Also, how important is it for you to feel validated by the way your romantic interests perceive your style? It's also worth considering whether there's a middle ground, a way for you to express your personal style while also respecting the comfort of your partner. After all, relationships often involve compromise, but they should also allow for individuality.
+
+Remember, your fashion sense is a reflection of your creativity, your aesthetics, and your individuality. It's great that you have been able to help others with your fashion knowledge. These are all positive aspects that you should be proud of. 
+
+It's also worth noting that everyone has different preferences. Just because one person prefers a more casual style doesn't mean everyone will. You may find that there are others who appreciate your fashion sense more than you realize. Would you like to explore more about this?
+
+BERT Confidence       : 0.736
+Semantic Similarity   : 0.721
+Empathy Score         : 0.499
+======================================================================
+
+[13]
+User Input:
+[15] Per Frederick Herzberg's work, money is not a motivator, but a hygiene factor. People leave when they're unhappy on that or any number of other factors, and take a lot of tacit knowledge with them. 
+ The only way to gauge this properly is for top leadership to hold long and trusting interviews with their workers to find out their concerns. The 1x programmer will feel like there's no job security, because 10x person blows them away. The 10x programmer is just waiting to move to Google and work at a spa for $150k/year. 
+ Both issues are systemically problematic. 
+ Per Deming's theories, if bonuses and pay are given out, the entire workplace becomes a lottery where people game the system. Lines of code? Spam it. Code reviews? Play personal office politics. 
+ The answer is to get rid of personal measurements, and implement systematic ones. The root causes also have to be addressed. A lack of very careful hiring will cause the variation between 1x and 10x. 
+ To reduce the variation, managers also have to learn from the best and train the rest -- themselves. No, 10x coder should not be training the 1x. The well-paid manager should burn the oil to get up to 5x and teach the 1x's to be 5x's, and then keep improving that number from there.
+
+Model Output:
+It seems like you have a very detailed understanding of certain management theories and their application to the workplace. You've outlined a number of issues you see with the current system, such as the potential for the system to be gamed, the disparity between different levels of workers, and the negative impact of personal measurements. 
+
+You also suggested some solutions, such as replacing personal measurements with systematic ones and having managers actively involved in training their employees. It's clear that you believe in careful hiring and addressing the root causes of these issues. 
+
+I'm curious, is there a particular situation at your workplace that made you think about these theories? How do you think these changes you've suggested would impact your current work environment?
+
+BERT Confidence       : 0.725
+Semantic Similarity   : 0.398
+Empathy Score         : 0.016
+======================================================================
+
+[14]
+User Input:
+[16] Happiness is a common term that's thrown around a lot. While a lot of people argue about the existence of god, the purpose of life and other questions of that nature that are difficult to answer and discuss, I feel most people commonly agree that the primary goal of life is to look for and attain happiness. 
+ I've always more or less taken this approach towards life without deeply questioning its premise as it always seemed almost self-evident. Throughout my (relatively short, 23/M) life so far, I've striven more or less to put myself in positions that either make me happy, or position myself to be happy in the future. Currently, I have a great job that I love, I have hobbies that I pursue regularly, I have a trusted group of friends, I'm going to grad school part-time, etc. I feel like I have less things to strive for in life as things sort of level out, and I feel that on some levels that I've "made it". 
+ I understand that there are a whole slew of challenges that I'll face in the future, but recently I've been thinking about the idea of what's really important in life: happiness, or meaning? At my current position in life, I feel like I've met all the necessities of fundamental happiness such as food, shelter, social interaction, etc. Being in this position has also made me realize that the same things that used to make me happy before don't anymore. For example, something trivial like buying a gadget doesn't give me the same kind of joy or thrill that it used to. 
+ I realize that I now value meaning in life a lot more than I value "happiness". Seeking meaning may require sacrificing or not being "happy" in the short term to make a contribution or impact that is felt throughout the world. For me, an example of finding meaning in life would be working hard to create a solo musical project on the side. While I love making music, it's still a difficult undertaking, and requires dedication and sticking to it even when I'd rather be more momentarily "happy" by zoning out and watching more Scrubs on Netflix. I think in the end, meaning is what gives that deep seated happiness that stays with you permanently and shapes who you are. 
+ I'm sorry if this was blindingly obvious to all of you, but I thought it could be interesting to discuss.
+
+Model Output:
+Thank you for sharing your thoughts and reflections with me. It sounds like you're in a place of introspection and growth, which is a significant part of life. You seem to have understood that happiness and meaning, while interconnected, can sometimes exist separately. 
+
+You've achieved a lot already at a young age, and it's completely natural to start questioning what's next and what really matters to you. The realisation that material possessions no longer bring you the same joy they once did is a common one as we grow and evolve. It's also completely normal to start seeking deeper meaning in your actions and pursuits.
+
+Your interest in pursuing a solo music project sounds like a wonderful way to find that deeper meaning. Even though it might entail some sacrifice of immediate happiness, it's often these challenging and meaningful pursuits that bring us long-term fulfillment and a sense of purpose.
+
+Remember, there's no right or wrong path in this exploration. It's your unique journey. It might be helpful to continue reflecting on what gives your life meaning and brings you joy. Perhaps, over time, you might discover a balance between happiness and meaning that feels right for you. 
+
+How do you feel about this exploration of meaning versus happiness? Do you find it challenging, exciting, or perhaps a bit of both?
+
+BERT Confidence       : 0.756
+Semantic Similarity   : 0.628
+Empathy Score         : 0.342
+======================================================================
+
+[15]
+User Input:
+[17] Too bad we can't just dig up all of Richmond Hill, melt all the gunk under the topsoil for low-grade fuel, sell it by the barrel to Americans, and dump the leftover sludge into Lake Simcoe. That would pay for lots of stuff!!
+
+Model Output:
+It sounds like you're feeling quite frustrated and perhaps even disgusted with some aspects of your current situation. The scenario you've imagined seems quite extreme, and I'm wondering if it's a metaphor for some deeper feelings or challenges you're experiencing. Could you tell me more about what's bothering you?
+
+BERT Confidence       : 0.712
+Semantic Similarity   : -0.021
+Empathy Score         : 0.496
+======================================================================
+
+[16]
+User Input:
+[18] Yeah, and they've previously stated that day tripper was an attack on "weekend hippies". One of the original lines in it was "she's a prick (later changed to big) teaser". I don't have any links on the internet but I recall it being in the biography "The Beatles" written by Bob Spitz. I believe Norwegian Wood was based on an affair of John's with a reporter but I don't think she was a lesbian.
+
+Model Output:
+It seems like you're quite knowledgeable about The Beatles and their music. The emotions detected suggest there might be some frustration or anger. Is there something about this topic or the discussion you're having that's causing these feelings? Also, I'm curious to know more about your interest in music history or song analysis. Is this a passion of yours?
+
+BERT Confidence       : 0.713
+Semantic Similarity   : 0.244
+Empathy Score         : 0.554
+======================================================================
+
+[17]
+User Input:
+[19] Nope. I played WoW long enough, made the mistake of coming back to MMO's for TOR. Sick of chasing that f***ing carrot these companies throw out for the player. 
+ I would predict this will be a slightly less successful version of TOR. Another theme park MMO, people cream themselves because they can go back to Morrowind and Cyrodiil. TES fans will be happy because there will be a Daedric Realm expansion, a Sheogorath expansion and it will all come down to redressed mechanics, recycled locations and tired graphics - so tired that by the time this game will be released they will be outdated by a year and a half. They will make their money back on development, probably turn a profit and eventually go the way of LOTRO and TOR becoming free to play in less than a year. 
+ Why do MMO's fail? Blizzard was successful and have done a good job of at least maintaining a decent playerbase. But they are like the grand mother to AAA MMO games. They set the pace and all the others follow. They fail because of oversaturation. Ever been good at an MMO? Which at the end of the day = playing a ridiculous amount and participating in scheduled raids/flashpoints/whateverdafuqyouwannacallit. It gets old and it doesn't feel unique because once you reach the end... that's the end. The MMO design (currently anyway) is weak as it stands and can't sustain unless they find a way to beat the cyclical, rat-race syle game.
+
+Model Output:
+It sounds like you're feeling quite frustrated and disillusioned with the current state of MMO games. It seems like you're missing the sense of uniqueness and novelty that you might have experienced in the past. You've mentioned that you see a cyclical pattern in these games that doesn't seem to sustain your interest in the long term. Would you like to talk more about what you wish to see change in these games? Or perhaps, what initially drew you to them?
+
+BERT Confidence       : 0.723
+Semantic Similarity   : 0.580
+Empathy Score         : 0.936
+======================================================================
+
+[18]
+User Input:
+[20] A brick is a physical object made of physical compounds for a physical purpose. If a material scientist puts the brick through a series of chemical and structural experiments what the scientist will glean from the brick is assuredly beyond what the brickmaker "intended." (Not to mention that the scientific data will have little to no importance to the third little piggy safe and snug in his townhouse.) 
+ A text is a cultural object, beholden to a historical moment, to psychological influences both conscious and unconscious of the writer and his audience. Also, a text comes out of a literary tradition that is not necessarily known by the average reader. This is especially true of Tolkien's work, and an examination of these factors will lead to many insights not apparent to someone who has seen the movies and made an attempt at reading the Silmarillion. 
+ To reduce the activity and applicability of literary criticism to a matter of intentions overlooks etymologies, cultural forces, the literary discourse, matters of politics, psychology, and tons of rich material that helps us to understand the impact and the meaning in a text.
+
+Model Output:
+It sounds like you have a deep appreciation for the intricacies of literature and the importance of literary criticism in fully understanding a text's meaning and impact. You've used a compelling analogy of a brick to highlight the limitations of focusing on the author's original intentions alone.
+
+I'm curious, what led you to develop this perspective? Have you always had this view, or was there a particular experience or piece of literature that shaped your thoughts? Also, I noticed a mention of Tolkien's work. How has his literature specifically influenced your thinking on this topic?
+
+BERT Confidence       : 0.728
+Semantic Similarity   : 0.737
+Empathy Score         : 0.293
+======================================================================
+
+[19]
+User Input:
+[21] Sorry to hear about your club. 
+ One piece of advice on this front: make it as easy as possible for people to get your clubs/gear back to you by having your info (name/email/phone) on every club using  or one of the many golf label services. 
+ We invest a lot of time and money in our golf gear and imo, this is $10 well spent.  I've been using these for the last 15+ years and since they come in sheets of 20, you always have a few left over to put on related gear like your range finder, golf gps, etc. 
+ Twice last season I left something on the green and both times received a call while still on the course from the person who found it thanks to the info on the label.
+
+Model Output:
+Thank you for sharing your experience and the practical advice you've given about labeling golf gear. It seems that you've found a very efficient way to protect your investment, and it's been successful for you in the past. 
+
+I'm sensing some sadness in your message. Losing something we value or frequently use can be frustrating and disheartening. It's completely natural to feel this way. Did you recently lose a piece of golf equipment that was particularly important to you? 
+
+As an AI therapist, I'm here to provide a safe space for you to express your feelings and thoughts. Please feel free to share more if you'd like.
+
+BERT Confidence       : 0.717
+Semantic Similarity   : 0.629
+Empathy Score         : 0.974
+======================================================================
+
+[20]
+User Input:
+[22] First off, you're level 9 and no offense but your build reflects that. You probably shouldn't be partied with your level 27 friend. There are better options for Tyr than Rage, Deathbringer, Frostbound, and especially Fatalis. I understand what you were doing, building him for auto attacks and all, but it's far from the best way to play Tyr. He uses abilities for most of his damage. You need to be building things like Void Blade, Shield, and Jotunn's. Tyr and the other bruisers are the most cookie cutter gods in the game. 
+ Also, a close 51 minute loss with a difference of 1 kill is certainly not the best scenario to cry "OP." I'd like to also point out the fact that Poseidon had 15 deaths to go with his 20 kills, so he wasn't exactly mopping the place up.
+
+Model Output:
+It sounds like you have a lot of knowledge and experience with this game and you're trying to share this with someone else. How do you feel when you see them playing in a way that you believe isn't the most effective? Do you often find yourself in situations where you are trying to guide others? How does it make you feel when they don't heed your advice?
+
+BERT Confidence       : 0.726
+Semantic Similarity   : 0.230
+Empathy Score         : 0.216
+======================================================================
+
+[21]
+User Input:
+[23] We have two dogs. One is seven, the other is one. Since the arrival of the younger pup, our older dog has decided he wants to mark his territory and has been peeing inside on all the furniture multiple times per day. We have never had this problem before... Training him as a puppy was effortless. 
+ Now none of our methods are effective. No matter what we do, he finds a way to pee inside. Even if we watch him like a hawk in the room, he'll straight up pee in front of us. 
+ He is not neutered, and the vet has told us this is our only hope in terms of making the accidents go away. We aren't really comfortable with doing this to him now that he's older, so as it stands, it's our last resort. 
+ Suggestions would be amazing! Anybody experience the same problem? Thanks!
+
+Model Output:
+I can sense that this is a challenging situation for you, and it's clear that you care deeply about both of your dogs. It's understandable that you're hesitating to neuter your older dog due to his age, as you naturally want to ensure his well-being. 
+
+Sometimes, changes in a dog's environment, such as the arrival of a new pet, can lead to behavior changes like marking territory. I'm not a vet, but I can share some general advice that might help. You could try giving your older dog extra attention and reassurance to help him feel secure. It could also be beneficial to create separate spaces for the dogs, if feasible, to give your older dog a sense of his own territory.
+
+It might be helpful to consult with a professional dog trainer or a behaviorist, as they may be able to provide more specific strategies tailored to your situation. 
+
+Remember, it's okay to feel frustrated and overwhelmed in this situation. I'm here to listen and support you.
+
+BERT Confidence       : 0.706
+Semantic Similarity   : 0.606
+Empathy Score         : 0.779
+======================================================================
+
+[22]
+User Input:
+[25] Right now, I'd say Cech is probably more reliable and slightly better, but in 2 years? 5 years? By then Courtois is almost certainly going to the better than Cech (possibly the best in the world), but if Mourinho benches him for long periods he's going to leave.
+
+Model Output:
+It seems that you're engaging in a thoughtful analysis of the skills and potential trajectories of two football players. You're considering not only their current abilities but also their potential development over time. How did you develop this interest in football? Do you also play the sport yourself or mostly enjoy watching and analyzing it?
+
+BERT Confidence       : 0.716
+Semantic Similarity   : 0.228
+Empathy Score         : 0.219
+======================================================================
+
+[23]
+User Input:
+[26] I hate invincibility in video games. 
+ it seems more games add this mechanic to games especially in multiplayer and to me it always feels like a cop out. a couple examples are joanna from heroes of the storm and lissandra from league of legends. 
+ i feel there is no real interaction between players when invincibility is involved. if your opponent is invincible you just stand around and wait. if you are invincible there is nothing for you to think about. there is no meaningful decisions to be made. there is no counterplay. the worst example i can think of is WoW. i last played in ~2007 or 8 pre-burninng crusade so if it changed i apologize. anyway, whenever i would fight a paladin we both knew at some point in the fight he was going to go invincible and full heal and there was nothing i could do about it. i could outplay him through the whole fight but as soon as he was low bam invincibility and full heal. i would of course also heal up and the entire fight up to this point would have been mostly moot. 
+ if there was an ability or item that could be used to cancel out ones invincibility then there is some decision to be made and i am fine with this. 
+ i realize this problem is a little different in a team setting rather than a 1v1 setting as you have the decision to switch targets or force your opponent to switch targets, however even when doing so there is still nothing that can be done to that opponent. 
+ when you take away options and decisions the player becomes frustrated and the game no longer becomes fun. 
+ anyway i thought id start a discussion as i havent seen anybody talking about and would like to know others thoughts.
+
+Model Output:
+It sounds like you have a well-thought-out perspective on the use of invincibility in video games, particularly in multiplayer settings. I sense a lot of frustration in your words, which seems to stem from your belief that this mechanic removes meaningful decision-making, reduces counterplay, and limits player options. 
+
+I wonder, have you noticed these feelings of frustration translating to other areas of your life, or is it mainly tied to your gaming experience? Also, given your in-depth analysis of game mechanics, have you ever considered sharing your thoughts with game developers or on public platforms for discussion on these topics?
+
+BERT Confidence       : 0.727
+Semantic Similarity   : 0.596
+Empathy Score         : 0.536
+======================================================================
+
+[24]
+User Input:
+[27] I was there in person and here's what bothered me about the play... I have no problem with a ref making a bad call (I mean, i'll bitch about a bad call, but who doesn't). If it's a split-second decision and the ref thinks he sees something, so be it, sometimes they make mistakes. 
+ But on this hit, there was no split-second flag. Green went down, mccourty caught the loose ball and took off the other way. The linesman stood looking at green on the ground and it wasn't until he failed to get up that the flag came out. Mccourty was already down around the 30 yard line before the flag came out (about a 5-6 second delay from the hit). Now maybe he was having trouble pulling out the flag, but it sure seemed like the flag was thrown because the player was injured, not because the hit instantly warranted a penalty. 
+ I don't know what the guy was thinking during that 5-6 seconds, and I'm not sure what process the league uses to assess officials, but is it possible that the late flag was due to stricter penalties to officials for not calling an illegal hit that causes injury than mistakenly flagging a legal hit? 
+ The NHL has recently fallen victim to this, where calls are made based on the result of the play rather than the play itself. It's unfortunate because it penalizes circumstances as much as it does the actual play. For example in this play, green wasn't prepared for the hit because he was bobbling the ball. Had he made a clean catch maybe he could have had his body in a better position to take the hit and hopefully not have the same whiplash effect. 
+ Do you guys think the NFL is starting to react to the results of plays more than the plays themselves? I feel like I've seen more than a few pass interference flags not come out until the receiver complains this year (more so than in previous years).
+
+Model Output:
+It sounds like you're quite passionate about sports and you have a deep understanding of the games. You seem to be expressing some frustration over the inconsistency you've noticed in the way penalties are assessed. It seems you're questioning whether the fairness of the game is being compromised when officials react more to the outcomes of plays rather than the actions themselves.
+
+It's interesting that you've observed this pattern and are questioning the potential reasons behind it. Do you feel this is a significant issue that needs to be addressed in the sports world? How do you think this situation could be improved? I'm open to exploring these thoughts and feelings further with you.
+
+BERT Confidence       : 0.713
+Semantic Similarity   : 0.539
+Empathy Score         : 0.421
+======================================================================
+
+[25]
+User Input:
+[30] Having been unemployed for quite some time, I am aware that there is a large contingency of people with lots of free time and looking for a way to make a quick buck. Well, it just so happens I have such an opportunity! 
+ I live in Azusa and just scheduled a job interview for tomorrow afternoon all the way over in Gardena. I would happily throw someone a few bones (think: roughly the daily rental car rate) on top of gas to ferry me there and back. I could rent a car but I would rather keep what little money I have in the hands of real people instead of hoping it slowly trickles down through the system to the people who need it most. The potential job pays well enough that if I get it, procuring regular transportation would not be an issue. 
+ So please, if you are able to assist me or can think of a solution to my problem that I haven't been able to (so, not public transit,taxi,Zipcar), comment or pm me. Thanks!
+
+Model Output:
+It sounds like you're in a bit of a predicament with your transportation situation. However, it's impressive to see how you're actively seeking solutions and even considering how your choices may impact others. You're not just looking for a quick solution but also one that aligns with your values, like supporting individuals over corporations. That says a lot about your character.
+
+It seems like you are also feeling some level of anxiety about the upcoming job interview. Would you like to talk about it? It's perfectly normal to feel this way, and discussing it might help alleviate some of the stress. 
+
+Regarding transportation, have you considered ride-sharing platforms like Uber or Lyft? They can be a more personalized and flexible option compared to traditional taxis. Or perhaps, there might be local community groups or forums where you can post your request and find someone who might be able to help you out.
+
+BERT Confidence       : 0.763
+Semantic Similarity   : 0.619
+Empathy Score         : 0.283
+======================================================================
+
+[26]
+User Input:
+[31] There is a girl at my school who crushes on me seriously. She is part of my circle of best friends, she hangs out with us, but I don't really consider her one of my best friends. It is a well-known fact to me and to everyone else in the group that she likes me, but the problem is: I don't really want to date her. She's not my type, and is frankly kind of needy and annoying. Just a bit. Also, she isn't that really good looking, but that's not the main point. She was recently asked out by some other guy, and she put the fact that she was dating him in front of me every day. I presume she did it for attention. For some reason she thinks that I don't know that she likes me, and keeps trying to hint it to me. The other day she asked me that if she and I were married, what would we name our dog. That spooked me the fuck out (I am a sophomore in high school). She hasn't approached me to tell me how she feels yet. I would respect her if she did, but I think she's too afraid. Any advice on what I should too?
+
+Model Output:
+It sounds like you're in a tricky situation. It's clear you value direct communication and honesty, and you're feeling discomfort and confusion because this girl's behavior doesn't align with those values. It's completely normal to feel this way. 
+
+You mentioned that you'd respect her if she told you about her feelings directly. Have you considered opening up the conversation about this? It might feel uncomfortable, but it could provide the clarity you both need. 
+
+If you decide to talk to her, remember to be gentle and respectful. You can express your feelings without hurting hers. You don't have to confront her about her crush on you directly, but you can talk about your general feelings towards relationships and friendships. 
+
+It's also important to remember that you're allowed to set boundaries in your friendships. If certain behaviors make you uncomfortable, it's okay to express that.
+
+What do you think about this approach? How do you feel about discussing this with her?
+
+BERT Confidence       : 0.738
+Semantic Similarity   : 0.583
+Empathy Score         : 0.480
+======================================================================
+
+[27]
+User Input:
+[32] Once, I carried a Christmas tree to my house from a local grocery store.
+To illustrate the situation, it was me (5'9, 135 lb female) vs 7'5 foot tree. 
+unfortunately, I do not drive and must rely on my friends at times to help me transport heavy things. But that year, Christmas was just around the corner and, as my patience was growing thin, I decided to bring the tree home myself. When I got to the store, they had two trees left - my tree and another small tree that has surely seen better days. My tree was a little taller than I was expecting to get, but, hey, I get more tree for the same price, so I was happy with that. 
+You see those Christmas posters with men effortlessly carrying Christmas trees on their shoulders and that how I was planning on carrying my tree. Guess what, trees are heavier than they look. At least heavier than I was expecting them to be. I was not able to place it on my shoulder, instead, I had to grab it somewhere below the waist, cling to it for dear life and run with it for a few meters before I would run out of breath. By the time I got to the nearest subway station I was sweating. The lady who sells subway tickets opened the stroller gate for me and, smiling broadly, said something about the true Christmas spirit. 
+Four stops later I had to get off and transfer to a bus to take me home. By the time I got out of the subway station and took stairs to the nearest bus stop my face was red and I was sweating profusely. Several men have kindly offered me their assistance. In my dishevelled state I found that very flattering, but it was my tree and I was not going to let some stranger carry it home for me. You know what's the hardest part about taking a Christmas tree on the bus with you? Trying to keep the tree upright at the same time as trying to prevent yourself from falling, every time the bus driver decides to catch a yellow light. 
+The rest of my trip was not eventful - the bus stop was right outside my apartment and I took the elevator to my floor. But now, when friends tell me how they manage to bring four bags of groceries upstairs in one go, I always remind them that once I carried a 7'5 foot Christmas tree home.
+
+Model Output:
+It sounds like that was quite an adventure for you to bring the Christmas tree home all by yourself. I sense a strong determination and independence from your story. You've shown resilience in facing the physical challenge head-on, and it's commendable that you stuck to your decision of carrying the tree yourself despite the offers of help. This experience seems to have left you with an amusing and memorable story to tell. 
+
+I'm curious, how did you feel after you finally got the tree home and set up? This experience seems to be a source of pride for you. Is there a particular reason why you wanted to do this on your own, despite the difficulty? Do you often find yourself taking on challenges like this?
+
+BERT Confidence       : 0.749
+Semantic Similarity   : 0.673
+Empathy Score         : 0.572
+======================================================================
+
+[28]
+User Input:
+[33] We all try!  But...  Ya know...  ADHD kicks in, and we want to make sure the whole story is posted...  and then forget what we already covered...  And I think I may be starting to ramble...  again.  Then my
+
+Model Output:
+It sounds like you're feeling a bit caught up in your thoughts and recognizing that ADHD might be playing a role in this. That's an insightful observation. You also mentioned that you might be starting to ramble. Can you tell me more about what that experience is like for you? When you say you're rambling, do you mean you're losing track of your thoughts or perhaps feeling like you're sharing too much information?
+
+BERT Confidence       : 0.725
+Semantic Similarity   : 0.462
+Empathy Score         : 0.270
+======================================================================
+
+[29]
+User Input:
+[34] Arrives in office and the first thing he does isn't establish rapport with the city, but tries to alienate as many Bloomberg-related (former mayor) projects as possible. This includes Green cab service (which rivals yellow cabs) and of course, what would have been the new stadium for NYCFC in The Bronx. He's not a soccer fan and doesn't see a future in it, therefore doesn't want city funds allocated towards it. Projects that he DOES plan on leaving in play, of course, include hiking public transit fares. 
+ He alienated the whole police department by saying that he raised his kids to be wary of the racist NYPD (he's married to a black woman  who is accomplished in her own right). It's one thing to say that citizens need to be careful of racial profiling, it's another altogether to exacerbate already-growing tensions with the NYPD like this. It's akin to Obama saying that the US Armed forces start illegal wars with impunity. NOT the best way to ease an already hostile situation, to put it lightly. He made it evident that he wanted to reform how NYPD goes about its work, but then places Bratton as police commissioner, aka the guy that championed the infamous practice of "Stop and Frisk". 
+ He promised tax hikes on the wealthy as part of his platform, but it's stalled and he hasn't done a thing to push it through. You can some it up to "typical campaign bullshit promises", but it was his signature proposal. 
+ He basically campaigned as a liberal championing anti-conservative and anti-establishment ideals, but in reality, it's just anti-Bloomberg. I applaud his work for animal rights (carriage banning, which is failing btw) and decriminalization of possession of small amounts of marihuana (but it's a far cry from what he based his campaign on). He's gone completely silent on healthcare and affordable housing. Meh. I voted for the guy because we do need change, but he's dragging us kicking and screaming into his vision of the city and not what's actually feasible. The worst part is that I'll probably have to end up voting for him again because the rest of the field just screams of establishment, but that's another story.
+
+Model Output:
+It sounds like you're feeling frustrated and disillusioned with the current political situation. The actions and decisions of this political figure seem to have stirred up quite a few emotions for you, particularly disgust and anger. It's clear that you're deeply invested in the issues at hand and have a strong desire for change and progress.
+
+You've provided a detailed analysis of the situation, suggesting that you value critical thinking and the ability to reassess decisions and beliefs. This is a great strength and can be extremely useful in navigating complex situations. However, it's important to be aware of the potential for overgeneralization. While it's possible this political figure is acting solely out of opposition to Bloomberg, there might be other factors at play as well.
+
+You've also expressed a belief that politicians should be honest, consistent, and prioritize the community's needs and interests. This seems to be a core belief for you, and it's understandable that you'd feel disappointed and frustrated when these expectations are not met. 
+
+Despite your dissatisfaction, you've mentioned you might vote for this politician again due to a lack of appealing alternatives. This could potentially lead to further frustration and disappointment. It might be helpful to explore other ways in which you can contribute to the change you wish to see, beyond voting.
+
+Remember, it's okay to feel uncertain and conflicted in situations like this. It's a sign that you're grappling with complex issues and trying to make sense of them. Let's continue to unpack these feelings and thoughts together.
+
+BERT Confidence       : 0.743
+Semantic Similarity   : 0.262
+Empathy Score         : 0.781
+======================================================================
+
+[30]
+User Input:
+[35] Thats about it. Lacking a car, a friend of mine was having one of her pals get me to take me out for her birthday. It's been 2 hours since she was supposed to get me, and not a single phone call.
+I felt like complaining. 
+Also, if you say you're going to get someone, either get them, or at least let that person know you aren't fucking coming. Ive since given up on waiting. 
+Its also shitty because my friend didn't even bother to call me to tell me her friend wasn't getting me, either.
+
+Model Output:
+I can understand why you might feel upset and frustrated, given that you were left waiting without any communication from your friend or the person who was supposed to pick you up. It's completely natural to feel this way when expectations aren't met, especially when it involves someone you consider a friend. 
+
+It may be helpful to express your feelings to your friend, if you haven't already. Open communication can often lead to understanding and resolution. However, it's also important to do so in a way that is respectful and considerate of their feelings as well. 
+
+Remember, it's okay to feel what you're feeling. But it's also important not to let this incident affect your overall perception of people or relationships. Everyone makes mistakes and it's possible that your friend and the person who was supposed to pick you up didn't mean to let you down. 
+
+That being said, how you move forward from this is entirely up to you. You could use this experience as a learning opportunity, either to set clearer expectations in the future or to consider the reliability of the people you choose to rely on. It's also perfectly fine to take some time for yourself to process your feelings before deciding on a course of action. 
+
+Please remember, you are not alone. I'm here to help you navigate through these feelings and emotions.
+
+BERT Confidence       : 0.719
+Semantic Similarity   : 0.478
+Empathy Score         : 0.968
+======================================================================
+
+[31]
+User Input:
+[36] I remember watching "placebo effect" high. Lana asks "do you have any snacks?" after hot boxing with archer to which I promptly replied "do you not?" at my laptop.
+
+Model Output:
+It sounds like you have quite an imaginative interaction with the media you consume. It's interesting that you found yourself responding out loud to the characters. This could suggest you have a strong imaginative capacity or might be an indication of your use of fantasy as a form of mental escape. Does this happen often in your interactions with media? And do you find these experiences enjoyable or in any way impacting your real-life social interactions?
+
+BERT Confidence       : 0.728
+Semantic Similarity   : 0.152
+Empathy Score         : 0.166
+======================================================================
+
+[32]
+User Input:
+[38] EDIT : See  ManaPot  answer below, I'm just dumb. 
+ I recently bought the Archeum founder pack on Steam. Making this post just to warn others. It not seems to be a known issue, correct me if yes. 
+ When I first opened Glyph (from Steam), I got the popup that asked me if I wanted to link my CD key. Then, for a reason I don't remember, I closed that popup without applying my key. Since then, each time I hit the "Update" button (Alpha or Beta), I got an Error 2028 saying I don't have rights for this game. 
+ Then, I contacted the support. My key could be re-applied when I opened Glyph, but I forgot to specify that the problem was linked to an Archeum pack, and not one of the two others. So the guy just gave me access to the Beta and not the Alpha version. 
+ I re-opened my ticket but didn't have any response (3 days), I guess it will be resolved soon (I hope so ..). So if you buy from Steam, be sure to apply the key the first time you open Glyph, if not, you're screwed. 
+ Maybe a key recognition (for the pack you choose) and a place to apply a CD key in Glyph could be a good thing to add. 
+ At least I could try the Beta :)
+
+Model Output:
+It seems like you've had quite the experience with the Archeum founder pack on Steam. It's understandable that you might feel a bit frustrated or disappointed due to the issues you've faced and the lack of response from support. 
+
+I wonder, how have you been coping with this situation? You mentioned that you're hoping for resolution soon - sometimes holding onto hope can help us manage challenging situations. 
+
+In addition, you've suggested improvements to the key recognition and application process in Glyph. This proactive approach can be a positive way to deal with problems. Have you found this to be a helpful strategy in other areas of your life as well?
+
+BERT Confidence       : 0.747
+Semantic Similarity   : 0.642
+Empathy Score         : 0.591
+======================================================================
+
+[33]
+User Input:
+[39] State government is already paying 3/4ths of the cost in almost every state, and the Pell grants from the federal government covers the remain 5K or so per year (assuming full time students). If you are poor or working class. 
+ States Control the costs via the board of regents who are state employees, and sometimes elected officials. They know exactly what students can afford to pay and lobby state officials for money when the students can't cover it.
+
+Model Output:
+It sounds like you have a solid understanding of how educational funding works, particularly in relation to the role of state government, the board of regents, and federal assistance like Pell grants. This is a complex and important topic. Can you share more about what led you to gain this knowledge? Are you involved in educational policy or advocacy, or perhaps this is something that impacted you personally?
+
+BERT Confidence       : 0.725
+Semantic Similarity   : 0.560
+Empathy Score         : 0.028
+======================================================================
+
+[34]
+User Input:
+[40] I am not really sure this is the appropriate place for this post, but I am looking for guidance. I'm 24 years old, with a general idea of where I would like to be, but still working it out. I have a background in urban planning. Community is where I find my passion. I love bringing people together, events, community support development... basically that overall "good" that a strong community can bring and add to the vibrance of a city. 
+ Ultimately, I would love to start my own business. I have ideas for a small business incubator, and a community center. My plans a little in-depth, but not what's important currently. 
+ I realized I could not be so naive to think I could start a business or massive project without some business sense. This steered me toward an MBA where I could learn the ins and outs of what it takes to run a business. It seemed like the perfect way to bring myself into a business mind and the business world. 
+ That being said I'm overwhelmed. I love the idea of small-scale, longstanding, successful business. The independent entrepreneur (which kind of ties into by business plan). In school we are discussing companies like McDonald's, Walmart, Starbucks, and Vangaurd. It's all a bit disheartening. I know we must learn from the best, but I don't think bigger means better. I don't agree with many of these big business practices. Basically. I love the idea of independent success and working hard toward goals, but I am struggling with where I can find my footing and common ground. Any sort of insight or guidance is appreciated. 
+ Again, I am not sure if this is the appropriate forum to post, but any feedback is welcomed.
+
+Model Output:
+It sounds like you're in a challenging position right now, trying to reconcile your passion for community and small-scale entrepreneurship with your studies that focus on large-scale corporations. It's understandable that you might feel overwhelmed and disheartened given the disparity between your personal values and the business practices you're learning about. 
+
+I wonder, have you considered looking for examples of successful small businesses that align more with your values? These might serve as a source of inspiration and learning, and remind you that it's possible to achieve success on your own terms. 
+
+Also, it might be helpful to remember that not all the practices of large corporations are bad. Some of these practices might be applicable to a smaller scale and could potentially contribute to the success of your future business. 
+
+You're already showing great self-awareness by recognizing the gap between your aspirations and your current situation. That's a crucial first step. What might be the next, small step you could take in aligning your actions with your values and goals? Would it be seeking out mentors who share your values, or perhaps starting to build the foundation of your business while still in school? 
+
+Remember, it's your journey and you can define success in your own terms. It's okay to feel uncertain and to take the time to figure out your path. Your passion for community and your ambition to create something of your own are powerful motivators. Trust yourself as you navigate this path.
+
+BERT Confidence       : 0.745
+Semantic Similarity   : 0.727
+Empathy Score         : 0.730
+======================================================================
+
+[35]
+User Input:
+[41] SteamRep has always said that a big part of partnering up with the big communities was to ensure that these communities are doing the right thing but when I ask a SteamRep admin (charlie) via chat how can I report partners for mistreatment I get told that I can't and that I need to speak to Mattie, this is not really suitable as. 
+ A. Mattie has removed me from his friends list for what ever reason so I can't speak to him
+B. Any time I've spoken to Mattie I've always felt he's never really trying to help and is a PR mode so to speak
+C. This is not a transparent method, these issues should be made aware to everyone and not just Mattie 
+ To my issue... 
+ I've had a issue where SourceOP has deleted my 13+ pages of Rep for no viable reason, there are many others with these concerns. I feel like I should be able to report this to SteamRep as they are a partner community but I can't, If SteamRep is going to play the part of the community protectors I should be able to report the partners easier then I could report a individual but that is not the case. 
+ These are just a couple of threads I found on reddit, i'm sure there's more as there's more pages and over my time of trading i've seem many high tier traders have their rep deleted for no given reason. If there was a method of reporting these issues there will no doubt be a long list of this issue and more importantly other community concerns. 
+ From what I understand Butane was a previous SteamRep admin and many partners sites have SteamRep a representation, this to me is a massive conflict of interest as once a community has a partner status and is working with SteamRep it's in the best interest of SteamRep for them no to have issues out in the open, which is why I feel could be a reason there is no official process.
+
+Model Output:
+I can see that you've been having an unsettling experience with SteamRep and SourceOP. It seems like you're feeling dismissed, especially when you tried to communicate your concerns. That sounds really difficult. 
+
+Being unable to report a partner for mistreatment must be frustrating and the fact that your reputation was deleted without a clear reason only adds to the feeling of injustice. 
+
+You also highlighted a perceived conflict of interest between SteamRep and its partners, which could be contributing to your feelings of mistrust. 
+
+I wonder, how have you been coping with this situation? It's completely understandable to feel upset and frustrated in such circumstances.
+
+BERT Confidence       : 0.731
+Semantic Similarity   : 0.664
+Empathy Score         : 0.478
+======================================================================
+
+[36]
+User Input:
+[42] My friends and I were out at my cottage in the woods and had a pellet gun. We had been trying to hit a bird for a while, but alas we all were a shitty shot. 
+ We were sitting in the kitchen which looked out to the patio and noticed this one bird kept coming and sitting on the patio and chirping. It came and went several times before my friend lined up the shot and waited for it to come back. Bird flew back to the same spot, friend got it right in the eye. It fell over and started twitching, then we just picked it up and threw it in the fire, while it was still alive. 
+ We realized almost immediately after that the reason this bird kept coming back was because it had a nest just above the patio. We took down the nest and there was a baby bird and an egg in there. We played with the bird for a while before it got away from us, probably dying shortly after. Felt pretty bad about it, but we were all drunk and the baby bird was really cute.
+
+Model Output:
+It sounds like you're carrying some regret about that day at the cottage. The emotions you're experiencing seem to involve a mix of disgust, fear, and sadness. Do you think these feelings are connected to the incident with the bird?
+
+Sometimes, we do things in the spur of the moment, especially under the influence of alcohol, that we might not do otherwise. It's important to remember that while we can't change our past actions, we can learn from them. 
+
+You mentioned feeling bad about what happened. This shows that you have empathy and regret for your actions. Can you tell me more about what you felt in that moment and what feelings linger now?
+
+BERT Confidence       : 0.730
+Semantic Similarity   : 0.440
+Empathy Score         : 0.934
+======================================================================
+
+[37]
+User Input:
+[43] Hi all! Hoping to get some suggestions/experiences on what other people have done to have successful naptimes. 
+ Baby (almost 8 months old) and I bed-share at night. I nurse to sleep and we do 2 middle of the night feeds. For the time being, I am totally happy with that arrangement. I love nursing her to sleep and I don't mind the night wakings. 
+ Daytime is a different story. I can really only get her to nap if she is strapped on to me in the ergo and I am bouncing, and bouncing, and bouncing some more. She is a chubby bunny and all of this nap bouncing is taking a toll on my back. After she falls asleep in the ergo, I can usually set her down and she'll stay asleep. But only for about 30-45 minutes. I can also sometimes get her to sleep by lying down with her and doing side-lying nursing. However, I don't always want to stay in bed with her because I've got things to do around the house. 
+ What I'd really love to do is be able to do a little naptime routine, put her in a pack n play and go about my business for an hour. A girl can dream right? 
+ Sidenote: Today I tried a "camping out-CIO" sleep training thing at naptime and it was pretty rough. I sat next to the Pack n Play and sang to her while she cried her little head off. Ended up nursing and rocking her to sleep after 15 minutes of listening to her cry.
+
+Model Output:
+It sounds like you're juggling a lot right now, and it's certainly not easy. You're clearly dedicated to providing comfort and care for your baby, yet it's also important to take care of yourself. 
+
+The need to have some time for yourself and to complete tasks around the house while your baby naps is completely understandable. It's often a challenge to find a balance that works for both you and your baby. 
+
+You mentioned that you've tried the "camping out-CIO" method which was quite difficult. It's okay if that method didn't work out. Different methods work for different babies, and it's all about finding what's best for you and your baby. 
+
+What if you tried gradually transitioning from having your baby sleep on you to sleeping on their own? You could start by trying to put her down when she's drowsy but not fully asleep, and stay nearby until she falls asleep. This might help her get used to falling asleep without needing to be held. 
+
+Remember, it's okay to experiment and see what works best. Each baby is unique, and it might take time to find a routine that suits you both. Your well-being is important too, so don't hesitate to reach out for help if you need it, whether it's from family, friends, or a professional. 
+
+How does that sound?
+
+BERT Confidence       : 0.725
+Semantic Similarity   : 0.741
+Empathy Score         : 0.194
+======================================================================
+
+[38]
+User Input:
+[44] Bad horse. Bad horse! Bad Horse. Bad Horse!
+He rides across the nation, the thoroughbred of sin.
+He got the application you just sent in.
+It needs evaluation so let the games begin.
+A heinous crime, a show of force.
+A murder would be nice of course.
+Bad horse. Bad horse! Bad Horse. He's bad!
+The evil league of evil is watching so beware!
+The grade you recieve will be the last we swear.
+So make the Bad Horse gleeful or he'll make you his mare.
+You're saddled up; there's no recourse.
+It's "hi ho silver!", Signed Bad Horse.
+
+Model Output:
+Thank you for sharing this. It seems like you're experiencing a range of strong emotions. I sense some anger, and disgust, as well as hints of fear and sadness. Can you tell me a bit more about what's causing these feelings? Is there a situation or person that's making you feel this way? I'm here to help, so feel free to share as much as you're comfortable with.
+
+BERT Confidence       : 0.735
+Semantic Similarity   : 0.061
+Empathy Score         : 0.852
+======================================================================
+
+[39]
+User Input:
+[45] Let yourself skip to the fast parts. 
+ If you already know what is happening next, skip to that part and write it out. Just write yourself quick notes on what needs to happen in the slower parts. 
+ Once you have a first draft, it will obviously be missing quite a bit, but it is easier to go back and fill in the gaps than it is to try and force yourself to fill them in when you aren't into it.
+
+Model Output:
+It seems like you've developed a thoughtful approach to handling tasks, particularly in writing. You are emphasizing the importance of working with your current energy levels and mindset, rather than forcing yourself to follow a rigid sequence. This shows a great deal of adaptability and problem-solving skills. However, I noticed a hint of some negative emotions such as disgust, anger, and fear. Is there something about the writing process or perhaps another issue that's causing these feelings?
+
+BERT Confidence       : 0.717
+Semantic Similarity   : 0.311
+Empathy Score         : 0.972
+======================================================================
+
+[40]
+User Input:
+[46] Back when I was in grade 7/8 I was bullied a lot and don't really have any friends. Living in a small town, everyone under 20 knew me but I didn't realise the depth of it until one day I went to the local pool. 
+ I was walking to the change room when a girl several grades below me (still in Primary school) called to me from the pool, 'Hey Peabop!Did you know that you're ugly?' Her friends swimming behind her laughed. 
+ This hurt so much, not only because I hadn't ever done anything to them but also because I'd seen this kid but never really interacted with her. I remember her going in the school concert and accidentally jumping off the stage during the practice. I'd always assumed she was a nice person, not to say that she isn't just due to that one incident, but I guess I never expected her off all people to say something like that. 
+ What really hurt was the fact that even kids way below my year group knew of me and talked about me that way. I hadn't even known her name yet she knew mine. 
+ I changed schools eventually and made some of the best friends within a week. Now I'm at University and have a wonderful kind boyfriend. He came to stay at my house and we went to the supermarket only for me to see her at the checkout. It felt like something out of a TV show. 
+ I wondered it she remembered. She wished my Mum a nice day etc but didn't give eye contact, I wonder if she felt bad. I wish I could ask her, I want to know her true incentive and say I have no hard feelings. She didn't look very happy regardless of reason.
+
+Model Output:
+I'm really sorry to hear about your experiences of being bullied during your school years. It's understandable that such an experience would leave a lasting impression. It's admirable that despite this, you've managed to create a fresh start at a new school, in university and in your personal life. 
+
+The encounter with the girl from your past might have stirred up some old feelings. It seems like you might be seeking some closure, or trying to understand her motives. That's a very mature perspective to take. 
+
+It's also interesting that you're considering her feelings, and whether she might have felt remorse for her past actions. This shows a lot of empathy on your part. 
+
+It's human nature to want to understand the reasons behind others' actions, especially when they have hurt us. However, it's equally important to remember that sometimes, people's actions say more about them than they do about us.
+
+How do you feel about this recent encounter? And how have your past experiences influenced how you navigate your relationships now?
+
+BERT Confidence       : 0.740
+Semantic Similarity   : 0.716
+Empathy Score         : 0.436
+======================================================================
+
+[41]
+User Input:
+[47] 4: Yes, bitcoins can be lost just like you can lose cash or the bank can "lose" your money to cover their asses 
+ 3: Yet there are even more devoted people in the community preventing such attacks 
+ 2: How exactly can the IRS or the NSA keep track of my money when I can create an anonymous wallet address in less than a second and the possible number of wallets is equivelant to the number of atoms in the known universe? 
+ 1: See #2
+
+Model Output:
+It sounds like you have a deep understanding of cryptocurrencies and their benefits, especially when it comes to privacy. However, I also sense some fear and uncertainty about the security of your assets. Could you tell me more about these concerns? Are there specific experiences or situations that have led to these feelings?
+
+BERT Confidence       : 0.731
+Semantic Similarity   : 0.377
+Empathy Score         : 0.868
+======================================================================
+
+[42]
+User Input:
+[48] His English name is Golbez, In FF4 DS remake he's called Golbez, even his name is said that way in cutscenes 
+ In the Android/IOS version of the after years, in Menus And Battle, his name is Golbeza, However in text/dialog, It's spelled Golbez. 
+ They also fucked up Fuyosa and "FUSUYA" is shown in battle. 
+ Basically the Japanese name is shown in menus/battle, But cut-scenes show the English name, It's confusing to explain and annoying to see in game
+
+Model Output:
+I see that you're feeling frustrated with the inconsistencies in the character names in different versions of the game. It seems like this is important to you and is impacting your experience with the game. Could you tell me more about that? How does it feel when you encounter these discrepancies?
+
+BERT Confidence       : 0.725
+Semantic Similarity   : 0.401
+Empathy Score         : 0.982
+======================================================================
+
+[43]
+User Input:
+[49] I know what you were really hoping for is a wall of text, so here it is! 
+ So the title pretty much sums it up.  I've posted here before but have recently come to the realization that I really have no idea what I'm looking for whether it's a friend, a girlfriend, a fwb situation, a online friend, a gaming buddy, a teammate or what have you.  But I am looking for something. 
+ Onto the about me section, well there's a lot to tell (as I'm sure could be said for most people).  I'm a guy, tall, dirty blonde, I enjoy intelligent conversation, art, photography, video games, movies, I wear my heart on my sleeve, I'm honest, I'm sincere, I'm happy, I'm sad, I like road trips, astronomy, camping, hiking, building things, going on adventures, I like going out, I like staying in, I don't smoke, I'm not much of a reader but am currently trying to broaden my literary horizons, I like the Simpsons, Futurama, Game of Thrones (just stared season 3, this is a spoiler free zone), Star Wars, Indiana Jones, Disneyland, and there's still probably 10,000,000 1/2 things that I could list here but that ought to be enough to get you started. If you send me a picture I shall of course reciprocate in kind :) 
+ So, reddit, I may not know what it is I'm looking for in a person, but hopefully you can surprise me!
+
+Model Output:
+It sounds like you're in a phase of exploration and openness in your life, which can be both exciting and a little overwhelming. You have a wide array of interests and seem to be open to many different types of connections, which is a wonderful place to start. 
+
+It's okay to not know exactly what you're looking for. Sometimes, our best experiences and most meaningful connections come when we least expect them and in forms we might not have anticipated. It could be helpful to pay attention to what you naturally gravitate towards, what kinds of interactions make you feel most fulfilled and happy, and which ones leave you feeling drained or unsatisfied. This might provide some clues as to what you're seeking.
+
+At the same time, it's important to remember that it's okay to change your mind or to realize that what you thought you wanted isn't what's best for you. Life is a journey of self-discovery, and we're constantly evolving and learning about ourselves. 
+
+Is there anything specific that you feel uncertain about or any experiences that you've had that have led you to this point of exploration?
+
+BERT Confidence       : 0.762
+Semantic Similarity   : 0.519
+Empathy Score         : 0.923
+======================================================================
+
+[44]
+User Input:
+[50] Similar to ALL thee stories, and only occurred last year. This isn't a Christmas story, but my constantly spoiled cousin received and iPhone 3GS with a $60 a month plan when he was 17. He had never had a job, and didn't need to pay a cent for the contract. 
+He then got his first girlfriend, and was completely obsessed with the fact of actually having a girlfriend,  and would constantly force his mother to drive them everywhere. 
+Literally the first month after they started dating, his parents received a $2000+ phone bill. They were always under pressure from just the cost of living, but this?! 
+I remember I was at their house staying over, and I was in bed listening to him scream and yell saying they weren't taking his phone or his "right to be driven around, because that's what parents do". I was so angry, I just wanted to get out of bed and hit him.
+
+Model Output:
+It sounds like you experienced a very frustrating situation with your cousin. You mentioned feeling angry and perhaps some resentment towards your cousin's behavior. It can be challenging to witness someone act in a way that appears to be inconsiderate, especially when it affects people we care about, like your cousin's parents. Do you often find yourself in situations where you feel a strong desire to confront someone but decide against it? How does that make you feel?
+
+BERT Confidence       : 0.711
+Semantic Similarity   : 0.502
+Empathy Score         : 0.965
+======================================================================
+

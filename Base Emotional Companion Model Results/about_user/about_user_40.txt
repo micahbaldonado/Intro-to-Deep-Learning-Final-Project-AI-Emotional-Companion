@@ -1,0 +1,29 @@
+{
+  "certain": {
+    "The user is 24 years old.": true,
+    "The user has a background in urban planning.": true,
+    "The user is passionate about community work and development.": true,
+    "The user has aspirations to start their own business.": true,
+    "The user is currently studying for an MBA.": true,
+    "The user is struggling with the focus on large-scale corporations in their studies.": true,
+    "The user is seeking advice and guidance.": true
+  },
+  "unsure": {
+    "The user may be experiencing anxiety or uncertainty about their future": {
+      "short_term": 0.7,
+      "long_term": 0.6
+    },
+    "The user might have a conflict between their personal values and the business practices taught in their MBA program": {
+      "short_term": 0.6,
+      "long_term": 0.5
+    },
+    "The user may be feeling overwhelmed by their studies and the scale of their ambitions": {
+      "short_term": 0.5,
+      "long_term": 0.4
+    },
+    "The user may feel isolated or unsupported in their aspirations": {
+      "short_term": 0.4,
+      "long_term": 0.3
+    }
+  }
+}
